@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: ac535830dd9124244b981413f2e42637
+timeCreated: 1477732187
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy_T33_fujiamen_menhuagan
+    100002: Dummy_T33_fujiamen_qibeng
+    100004: //RootNode
+    100006: T33_fujiamengongneng_xuanpei2_zgqdm_00
+    100008: T33_fujiamengongneng_xuanpei2_zgqdm_01
+    100010: T33_fujiamengongneng_xuanpei2_zgqdm_02
+    100012: T33_fujiamengongneng_xuanpei2_zgqdm_03
+    100014: T33_fujiamengongneng_xuanpei2_zgqdm_04
+    100016: T33_fujiamengongneng_xuanpei2_zgqdm_05
+    100018: T33_fujiamengongneng_xuanpei2_zgqdm_06
+    100020: T33_fujiamengongneng_xuanpei2_zgqdm_07
+    100022: T33_fujiamengongneng_xuanpei2_zgqdm_08
+    400000: Dummy_T33_fujiamen_menhuagan
+    400002: Dummy_T33_fujiamen_qibeng
+    400004: //RootNode
+    400006: T33_fujiamengongneng_xuanpei2_zgqdm_00
+    400008: T33_fujiamengongneng_xuanpei2_zgqdm_01
+    400010: T33_fujiamengongneng_xuanpei2_zgqdm_02
+    400012: T33_fujiamengongneng_xuanpei2_zgqdm_03
+    400014: T33_fujiamengongneng_xuanpei2_zgqdm_04
+    400016: T33_fujiamengongneng_xuanpei2_zgqdm_05
+    400018: T33_fujiamengongneng_xuanpei2_zgqdm_06
+    400020: T33_fujiamengongneng_xuanpei2_zgqdm_07
+    400022: T33_fujiamengongneng_xuanpei2_zgqdm_08
+    2300000: T33_fujiamengongneng_xuanpei2_zgqdm_00
+    2300002: T33_fujiamengongneng_xuanpei2_zgqdm_01
+    2300004: T33_fujiamengongneng_xuanpei2_zgqdm_02
+    2300006: T33_fujiamengongneng_xuanpei2_zgqdm_03
+    2300008: T33_fujiamengongneng_xuanpei2_zgqdm_04
+    2300010: T33_fujiamengongneng_xuanpei2_zgqdm_05
+    2300012: T33_fujiamengongneng_xuanpei2_zgqdm_06
+    2300014: T33_fujiamengongneng_xuanpei2_zgqdm_07
+    2300016: T33_fujiamengongneng_xuanpei2_zgqdm_08
+    3300000: T33_fujiamengongneng_xuanpei2_zgqdm_00
+    3300002: T33_fujiamengongneng_xuanpei2_zgqdm_01
+    3300004: T33_fujiamengongneng_xuanpei2_zgqdm_02
+    3300006: T33_fujiamengongneng_xuanpei2_zgqdm_03
+    3300008: T33_fujiamengongneng_xuanpei2_zgqdm_04
+    3300010: T33_fujiamengongneng_xuanpei2_zgqdm_05
+    3300012: T33_fujiamengongneng_xuanpei2_zgqdm_06
+    3300014: T33_fujiamengongneng_xuanpei2_zgqdm_07
+    3300016: T33_fujiamengongneng_xuanpei2_zgqdm_08
+    4300000: T33_fujiamengongneng_xuanpei2_zgqdm_00
+    4300002: T33_fujiamengongneng_xuanpei2_zgqdm_08
+    4300004: T33_fujiamengongneng_xuanpei2_zgqdm_07
+    4300006: T33_fujiamengongneng_xuanpei2_zgqdm_06
+    4300008: T33_fujiamengongneng_xuanpei2_zgqdm_05
+    4300010: T33_fujiamengongneng_xuanpei2_zgqdm_04
+    4300012: T33_fujiamengongneng_xuanpei2_zgqdm_03
+    4300014: T33_fujiamengongneng_xuanpei2_zgqdm_02
+    4300016: T33_fujiamengongneng_xuanpei2_zgqdm_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

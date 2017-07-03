@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: acdf2012be9e7ba46a0c77e0f475d9ad
+timeCreated: 1477728349
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy_T33_daogui
+    100002: help_T33_cepaixie_boom
+    100004: help_T33_cepaixie_Y
+    100006: help_T33_chuangan_boom
+    100008: help_T33_chuangan_move
+    100010: help_T33_chuangan_Y
+    100012: help_T33_chuangshen_boom
+    100014: help_T33_chuangshen_Y
+    100016: help_T33_daojia
+    100018: help_T33_daojia001
+    100020: help_T33_daojia_002
+    100022: help_T33_daojia_boom
+    100024: help_T33_daojia_Y
+    100026: help_T33_dianxiang_boom
+    100028: help_T33_dianxiang_Y
+    100030: help_T33_houpaixie_boom
+    100032: help_T33_houpaixie_Y
+    100034: help_T33_kapan_boom
+    100036: help_T33_kapan_Y
+    100038: help_T33_neifanghu_boom
+    100040: help_T33_neifanghu_Y
+    100042: help_T33_waifanghu_boom
+    100044: help_T33_waifanghu_Y
+    100046: help_T33_yeyazhan_boom
+    100048: help_T33_yeyazhan_Y
+    100050: T33_back_leftdoor-S
+    100052: T33_back_rightdoor-S
+    100054: //RootNode
+    100056: T33_cepaixie-S
+    100058: T33_daogui_1Z-S
+    100060: T33_daogui_2Z-S
+    100062: T33_daojia-S
+    100064: T33_daojia_chuang'an-S
+    100066: T33_daojia_donghualian-S
+    100068: T33_daojiao_chuang'an_dizuo-S
+    100070: T33_diandongmen-S
+    100072: T33_dianxiang_left-S
+    100074: T33_dianxiang_right-S
+    100076: T33_dianxiang_zhu-S
+    100078: T33_ground-S
+    100080: T33_houpaixie-S
+    100082: T33_houpaixie_hide-S
+    100084: T33_jiagong_size-S
+    100086: T33_kapan-S
+    100088: T33_lengquebeng_xiao-S
+    100090: T33_lengquebeng_xiao-S 1
+    100092: T33_neifanghu_1Z-S
+    100094: T33_neifanghu_2Z-S
+    100096: T33_neifanghu_3Z-S
+    100098: T33_pengzhuangti-S
+    100100: T33_rightdoor-S
+    100102: T33_sigang-S
+    100104: T33_waifanghu-S
+    100106: T33_weitai_other-S
+    100108: T33_weitai_xp-S
+    100110: T33_yeyazhan-S
+    100112: T33_zhinengxitong-S
+    100114: T33_zhoucheng_1Z-S
+    100116: T33_zhoucheng_1Z-S 1
+    100118: T33_zhuzhoudanyuan-S
+    100120: T33_zhuzhoudianji-S
+    100122: T33_size_01-S
+    100124: T33_size_02-S
+    100126: T33_size_03-S
+    100128: T33_size_04-S
+    100130: T33_size_05-S
+    100132: T33_size_06-S
+    100134: T33_size_07-S
+    100136: T33_size_08-S
+    100138: T33_size_09-S
+    100140: T33_size_10-S
+    100142: T33_size_11-S
+    100144: T33_size_12-S
+    100146: T33_size_13-S
+    100148: T33_size_all
+    100150: T33_daojia
+    100152: T33_daojia_1Z-S
+    100154: T33_daojia_2Z-S
+    100156: T33_kapan-01
+    100158: T33_kapan_1Z-S
+    100160: T33_kapan_2Z-S
+    100162: T33_kapan_3Z-S
+    100164: T33_kapan_4Z-S
+    400000: Dummy_T33_daogui
+    400002: help_T33_cepaixie_boom
+    400004: help_T33_cepaixie_Y
+    400006: help_T33_chuangan_boom
+    400008: help_T33_chuangan_move
+    400010: help_T33_chuangan_Y
+    400012: help_T33_chuangshen_boom
+    400014: help_T33_chuangshen_Y
+    400016: help_T33_daojia
+    400018: help_T33_daojia001
+    400020: help_T33_daojia_002
+    400022: help_T33_daojia_boom
+    400024: help_T33_daojia_Y
+    400026: help_T33_dianxiang_boom
+    400028: help_T33_dianxiang_Y
+    400030: help_T33_houpaixie_boom
+    400032: help_T33_houpaixie_Y
+    400034: help_T33_kapan_boom
+    400036: help_T33_kapan_Y
+    400038: help_T33_neifanghu_boom
+    400040: help_T33_neifanghu_Y
+    400042: help_T33_waifanghu_boom
+    400044: help_T33_waifanghu_Y
+    400046: help_T33_yeyazhan_boom
+    400048: help_T33_yeyazhan_Y
+    400050: T33_back_leftdoor-S
+    400052: T33_back_rightdoor-S
+    400054: //RootNode
+    400056: T33_cepaixie-S
+    400058: T33_daogui_1Z-S
+    400060: T33_daogui_2Z-S
+    400062: T33_daojia-S
+    400064: T33_daojia_chuang'an-S
+    400066: T33_daojia_donghualian-S
+    400068: T33_daojiao_chuang'an_dizuo-S
+    400070: T33_diandongmen-S
+    400072: T33_dianxiang_left-S
+    400074: T33_dianxiang_right-S
+    400076: T33_dianxiang_zhu-S
+    400078: T33_ground-S
+    400080: T33_houpaixie-S
+    400082: T33_houpaixie_hide-S
+    400084: T33_jiagong_size-S
+    400086: T33_kapan-S
+    400088: T33_lengquebeng_xiao-S
+    400090: T33_lengquebeng_xiao-S 1
+    400092: T33_neifanghu_1Z-S
+    400094: T33_neifanghu_2Z-S
+    400096: T33_neifanghu_3Z-S
+    400098: T33_pengzhuangti-S
+    400100: T33_rightdoor-S
+    400102: T33_sigang-S
+    400104: T33_waifanghu-S
+    400106: T33_weitai_other-S
+    400108: T33_weitai_xp-S
+    400110: T33_yeyazhan-S
+    400112: T33_zhinengxitong-S
+    400114: T33_zhoucheng_1Z-S
+    400116: T33_zhoucheng_1Z-S 1
+    400118: T33_zhuzhoudanyuan-S
+    400120: T33_zhuzhoudianji-S
+    400122: T33_size_01-S
+    400124: T33_size_02-S
+    400126: T33_size_03-S
+    400128: T33_size_04-S
+    400130: T33_size_05-S
+    400132: T33_size_06-S
+    400134: T33_size_07-S
+    400136: T33_size_08-S
+    400138: T33_size_09-S
+    400140: T33_size_10-S
+    400142: T33_size_11-S
+    400144: T33_size_12-S
+    400146: T33_size_13-S
+    400148: T33_size_all
+    400150: T33_daojia
+    400152: T33_daojia_1Z-S
+    400154: T33_daojia_2Z-S
+    400156: T33_kapan-01
+    400158: T33_kapan_1Z-S
+    400160: T33_kapan_2Z-S
+    400162: T33_kapan_3Z-S
+    400164: T33_kapan_4Z-S
+    7400000: Uns_AnimExplode
+    7400002: Uns_AnimProcessRange
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimExplode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: help_T33_cepaixie_boom
+        weight: 1
+      - path: help_T33_cepaixie_boom/help_T33_cepaixie_Y
+        weight: 1
+      - path: help_T33_cepaixie_boom/help_T33_cepaixie_Y/T33_cepaixie-S
+        weight: 1
+      - path: help_T33_cepaixie_boom/help_T33_cepaixie_Y/T33_lengquebeng_xiao-S
+        weight: 1
+      - path: help_T33_chuangan_boom
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia/T33_daojia_chuang'an-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia/T33_daojia_donghualian-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia/T33_daojiao_chuang'an_dizuo-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/T33_sigang-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/T33_zhoucheng_1Z-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/T33_zhoucheng_1Z-S 1
+        weight: 1
+      - path: help_T33_chuangshen_boom
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/Dummy_T33_daogui
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/Dummy_T33_daogui/T33_daogui_1Z-S
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/Dummy_T33_daogui/T33_daogui_2Z-S
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/T33_weitai_other-S
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/T33_weitai_xp-S
+        weight: 1
+      - path: help_T33_daojia_boom
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y/help_T33_daojia001
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y/help_T33_daojia001/help_T33_daojia_002
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y/help_T33_daojia001/help_T33_daojia_002/T33_daojia-S
+        weight: 1
+      - path: help_T33_dianxiang_boom
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y/T33_dianxiang_left-S
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y/T33_dianxiang_right-S
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y/T33_dianxiang_zhu-S
+        weight: 1
+      - path: help_T33_houpaixie_boom
+        weight: 1
+      - path: help_T33_houpaixie_boom/help_T33_houpaixie_Y
+        weight: 1
+      - path: help_T33_houpaixie_boom/help_T33_houpaixie_Y/T33_houpaixie-S
+        weight: 1
+      - path: help_T33_houpaixie_boom/help_T33_houpaixie_Y/T33_lengquebeng_xiao-S
+          1
+        weight: 1
+      - path: help_T33_kapan_boom
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y/T33_kapan-S
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y/T33_zhuzhoudanyuan-S
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y/T33_zhuzhoudianji-S
+        weight: 1
+      - path: help_T33_neifanghu_boom
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y/T33_neifanghu_1Z-S
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y/T33_neifanghu_2Z-S
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y/T33_neifanghu_3Z-S
+        weight: 1
+      - path: help_T33_waifanghu_boom
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_back_leftdoor-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_back_rightdoor-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_diandongmen-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_houpaixie_hide-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_rightdoor-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_waifanghu-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_zhinengxitong-S
+        weight: 1
+      - path: help_T33_yeyazhan_boom
+        weight: 1
+      - path: help_T33_yeyazhan_boom/help_T33_yeyazhan_Y
+        weight: 1
+      - path: help_T33_yeyazhan_boom/help_T33_yeyazhan_Y/T33_yeyazhan-S
+        weight: 1
+      - path: T33_ground-S
+        weight: 1
+      - path: T33_jiagong_size-S
+        weight: 1
+      - path: T33_pengzhuangti-S
+        weight: 1
+      - path: T33_size_all
+        weight: 1
+      - path: T33_size_all/T33_size_01-S
+        weight: 1
+      - path: T33_size_all/T33_size_02-S
+        weight: 1
+      - path: T33_size_all/T33_size_03-S
+        weight: 1
+      - path: T33_size_all/T33_size_04-S
+        weight: 1
+      - path: T33_size_all/T33_size_05-S
+        weight: 1
+      - path: T33_size_all/T33_size_06-S
+        weight: 1
+      - path: T33_size_all/T33_size_07-S
+        weight: 1
+      - path: T33_size_all/T33_size_08-S
+        weight: 1
+      - path: T33_size_all/T33_size_09-S
+        weight: 1
+      - path: T33_size_all/T33_size_10-S
+        weight: 1
+      - path: T33_size_all/T33_size_11-S
+        weight: 1
+      - path: T33_size_all/T33_size_12-S
+        weight: 1
+      - path: T33_size_all/T33_size_13-S
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Uns_AnimProcessRange
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 140.00002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: help_T33_cepaixie_boom
+        weight: 1
+      - path: help_T33_cepaixie_boom/help_T33_cepaixie_Y
+        weight: 1
+      - path: help_T33_cepaixie_boom/help_T33_cepaixie_Y/T33_cepaixie-S
+        weight: 1
+      - path: help_T33_cepaixie_boom/help_T33_cepaixie_Y/T33_lengquebeng_xiao-S
+        weight: 1
+      - path: help_T33_chuangan_boom
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia/T33_daojia_chuang'an-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia/T33_daojia_donghualian-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/help_T33_chuangan_move/help_T33_daojia/T33_daojiao_chuang'an_dizuo-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/T33_sigang-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/T33_zhoucheng_1Z-S
+        weight: 1
+      - path: help_T33_chuangan_boom/help_T33_chuangan_Y/T33_zhoucheng_1Z-S 1
+        weight: 1
+      - path: help_T33_chuangshen_boom
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/Dummy_T33_daogui
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/Dummy_T33_daogui/T33_daogui_1Z-S
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/Dummy_T33_daogui/T33_daogui_2Z-S
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/T33_weitai_other-S
+        weight: 1
+      - path: help_T33_chuangshen_boom/help_T33_chuangshen_Y/T33_weitai_xp-S
+        weight: 1
+      - path: help_T33_daojia_boom
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y/help_T33_daojia001
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y/help_T33_daojia001/help_T33_daojia_002
+        weight: 1
+      - path: help_T33_daojia_boom/help_T33_daojia_Y/help_T33_daojia001/help_T33_daojia_002/T33_daojia-S
+        weight: 1
+      - path: help_T33_dianxiang_boom
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y/T33_dianxiang_left-S
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y/T33_dianxiang_right-S
+        weight: 1
+      - path: help_T33_dianxiang_boom/help_T33_dianxiang_Y/T33_dianxiang_zhu-S
+        weight: 1
+      - path: help_T33_houpaixie_boom
+        weight: 1
+      - path: help_T33_houpaixie_boom/help_T33_houpaixie_Y
+        weight: 1
+      - path: help_T33_houpaixie_boom/help_T33_houpaixie_Y/T33_houpaixie-S
+        weight: 1
+      - path: help_T33_houpaixie_boom/help_T33_houpaixie_Y/T33_lengquebeng_xiao-S
+          1
+        weight: 1
+      - path: help_T33_kapan_boom
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y/T33_kapan-S
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y/T33_zhuzhoudanyuan-S
+        weight: 1
+      - path: help_T33_kapan_boom/help_T33_kapan_Y/T33_zhuzhoudianji-S
+        weight: 1
+      - path: help_T33_neifanghu_boom
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y/T33_neifanghu_1Z-S
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y/T33_neifanghu_2Z-S
+        weight: 1
+      - path: help_T33_neifanghu_boom/help_T33_neifanghu_Y/T33_neifanghu_3Z-S
+        weight: 1
+      - path: help_T33_waifanghu_boom
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_back_leftdoor-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_back_rightdoor-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_diandongmen-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_houpaixie_hide-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_rightdoor-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_waifanghu-S
+        weight: 1
+      - path: help_T33_waifanghu_boom/help_T33_waifanghu_Y/T33_zhinengxitong-S
+        weight: 1
+      - path: help_T33_yeyazhan_boom
+        weight: 1
+      - path: help_T33_yeyazhan_boom/help_T33_yeyazhan_Y
+        weight: 1
+      - path: help_T33_yeyazhan_boom/help_T33_yeyazhan_Y/T33_yeyazhan-S
+        weight: 1
+      - path: T33_ground-S
+        weight: 1
+      - path: T33_jiagong_size-S
+        weight: 1
+      - path: T33_pengzhuangti-S
+        weight: 1
+      - path: T33_size_all
+        weight: 1
+      - path: T33_size_all/T33_size_01-S
+        weight: 1
+      - path: T33_size_all/T33_size_02-S
+        weight: 1
+      - path: T33_size_all/T33_size_03-S
+        weight: 1
+      - path: T33_size_all/T33_size_04-S
+        weight: 1
+      - path: T33_size_all/T33_size_05-S
+        weight: 1
+      - path: T33_size_all/T33_size_06-S
+        weight: 1
+      - path: T33_size_all/T33_size_07-S
+        weight: 1
+      - path: T33_size_all/T33_size_08-S
+        weight: 1
+      - path: T33_size_all/T33_size_09-S
+        weight: 1
+      - path: T33_size_all/T33_size_10-S
+        weight: 1
+      - path: T33_size_all/T33_size_11-S
+        weight: 1
+      - path: T33_size_all/T33_size_12-S
+        weight: 1
+      - path: T33_size_all/T33_size_13-S
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

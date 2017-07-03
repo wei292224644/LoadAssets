@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 0e0959262fb2cb64a9b384ac212896ca
+timeCreated: 1477817600
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone009
+    100016: Bone010
+    100018: Bone011
+    100020: Bone012
+    100022: Bone013
+    100024: Bone014
+    100026: Bone015
+    100028: Bone016
+    100030: Bone017
+    100032: Bone018
+    100034: Bone019
+    100036: Bone020
+    100038: Bone021
+    100040: Bone022
+    100042: Dummy
+    100044: G_002
+    100046: G_003
+    100048: G_004
+    100050: G_005
+    100052: G_006
+    100054: G_007
+    100056: G_008
+    100058: G_009
+    100060: G_01
+    100062: G_010
+    100064: G_011
+    100066: G_012
+    100068: G_013
+    100070: G_014
+    100072: G_015
+    100074: G_016
+    100076: G_017
+    100078: G_018
+    100080: G_019
+    100082: G_020
+    100084: G_021
+    100086: Plane039
+    100088: Plane040
+    100090: Plane041
+    100092: Plane048
+    100094: Plane049
+    100096: Plane086
+    100098: Shape001
+    100100: Shape002
+    100102: //RootNode
+    100104: T33_size_08_a
+    100106: Text004
+    400000: Bone002
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone009
+    400016: Bone010
+    400018: Bone011
+    400020: Bone012
+    400022: Bone013
+    400024: Bone014
+    400026: Bone015
+    400028: Bone016
+    400030: Bone017
+    400032: Bone018
+    400034: Bone019
+    400036: Bone020
+    400038: Bone021
+    400040: Bone022
+    400042: Dummy
+    400044: G_002
+    400046: G_003
+    400048: G_004
+    400050: G_005
+    400052: G_006
+    400054: G_007
+    400056: G_008
+    400058: G_009
+    400060: G_01
+    400062: G_010
+    400064: G_011
+    400066: G_012
+    400068: G_013
+    400070: G_014
+    400072: G_015
+    400074: G_016
+    400076: G_017
+    400078: G_018
+    400080: G_019
+    400082: G_020
+    400084: G_021
+    400086: Plane039
+    400088: Plane040
+    400090: Plane041
+    400092: Plane048
+    400094: Plane049
+    400096: Plane086
+    400098: Shape001
+    400100: Shape002
+    400102: //RootNode
+    400104: T33_size_08_a
+    400106: Text004
+    2300000: Plane039
+    2300002: Plane040
+    2300004: Plane041
+    2300006: Plane086
+    2300008: Text004
+    3300000: Plane039
+    3300002: Plane040
+    3300004: Plane041
+    3300006: Plane086
+    3300008: Text004
+    4300000: Text004
+    4300002: Plane039
+    4300004: Plane040
+    4300006: Plane041
+    4300008: Plane086
+    4300010: Plane048
+    4300012: Plane049
+    7400000: Uns_AnimSize
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane048
+    13700002: Plane049
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimSize
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy
+        weight: 1
+      - path: T33_size_08_a
+        weight: 1
+      - path: T33_size_08_a/Bone002
+        weight: 1
+      - path: T33_size_08_a/Bone003
+        weight: 1
+      - path: T33_size_08_a/Bone004
+        weight: 1
+      - path: T33_size_08_a/Bone005
+        weight: 1
+      - path: T33_size_08_a/Bone006
+        weight: 1
+      - path: T33_size_08_a/Bone007
+        weight: 1
+      - path: T33_size_08_a/Bone008
+        weight: 1
+      - path: T33_size_08_a/Bone009
+        weight: 1
+      - path: T33_size_08_a/Bone010
+        weight: 1
+      - path: T33_size_08_a/Bone011
+        weight: 1
+      - path: T33_size_08_a/Bone012
+        weight: 1
+      - path: T33_size_08_a/Bone013
+        weight: 1
+      - path: T33_size_08_a/Bone014
+        weight: 1
+      - path: T33_size_08_a/Bone015
+        weight: 1
+      - path: T33_size_08_a/Bone016
+        weight: 1
+      - path: T33_size_08_a/Bone017
+        weight: 1
+      - path: T33_size_08_a/Bone018
+        weight: 1
+      - path: T33_size_08_a/Bone019
+        weight: 1
+      - path: T33_size_08_a/Bone020
+        weight: 1
+      - path: T33_size_08_a/Bone021
+        weight: 1
+      - path: T33_size_08_a/Bone022
+        weight: 1
+      - path: T33_size_08_a/G_01
+        weight: 1
+      - path: T33_size_08_a/G_002
+        weight: 1
+      - path: T33_size_08_a/G_003
+        weight: 1
+      - path: T33_size_08_a/G_004
+        weight: 1
+      - path: T33_size_08_a/G_005
+        weight: 1
+      - path: T33_size_08_a/G_006
+        weight: 1
+      - path: T33_size_08_a/G_007
+        weight: 1
+      - path: T33_size_08_a/G_008
+        weight: 1
+      - path: T33_size_08_a/G_009
+        weight: 1
+      - path: T33_size_08_a/G_010
+        weight: 1
+      - path: T33_size_08_a/G_011
+        weight: 1
+      - path: T33_size_08_a/G_012
+        weight: 1
+      - path: T33_size_08_a/G_013
+        weight: 1
+      - path: T33_size_08_a/G_014
+        weight: 1
+      - path: T33_size_08_a/G_015
+        weight: 1
+      - path: T33_size_08_a/G_016
+        weight: 1
+      - path: T33_size_08_a/G_017
+        weight: 1
+      - path: T33_size_08_a/G_018
+        weight: 1
+      - path: T33_size_08_a/G_019
+        weight: 1
+      - path: T33_size_08_a/G_020
+        weight: 1
+      - path: T33_size_08_a/G_021
+        weight: 1
+      - path: T33_size_08_a/Plane039
+        weight: 1
+      - path: T33_size_08_a/Plane040
+        weight: 1
+      - path: T33_size_08_a/Plane041
+        weight: 1
+      - path: T33_size_08_a/Plane048
+        weight: 1
+      - path: T33_size_08_a/Plane049
+        weight: 1
+      - path: T33_size_08_a/Plane086
+        weight: 1
+      - path: T33_size_08_a/Shape001
+        weight: 1
+      - path: T33_size_08_a/Shape002
+        weight: 1
+      - path: T33_size_08_a/Text004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

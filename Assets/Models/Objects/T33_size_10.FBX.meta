@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 9d178ce833731f640a43e38a079955e0
+timeCreated: 1477817600
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bj6_002
+    100002: bj6_003
+    100004: bj6_004
+    100006: bj6_005
+    100008: bj6_006
+    100010: bj6_007
+    100012: bj6_008
+    100014: bj6_009
+    100016: bj6_01
+    100018: bj6_010
+    100020: bj6_011
+    100022: bj6_012
+    100024: bj6_013
+    100026: bj6_014
+    100028: bj6_015
+    100030: bj6_016
+    100032: bj6_017
+    100034: bj6_018
+    100036: bj6_019
+    100038: bj6_020
+    100040: bj6_021
+    100042: Dummy
+    100044: gg6_002
+    100046: gg6_003
+    100048: gg6_004
+    100050: gg6_005
+    100052: gg6_006
+    100054: gg6_007
+    100056: gg6_008
+    100058: gg6_009
+    100060: gg6_01
+    100062: gg6_010
+    100064: gg6_011
+    100066: gg6_012
+    100068: gg6_013
+    100070: gg6_014
+    100072: gg6_015
+    100074: gg6_016
+    100076: gg6_017
+    100078: gg6_018
+    100080: gg6_019
+    100082: gg6_020
+    100084: gg6_021
+    100086: Plane054
+    100088: Plane057
+    100090: Plane068
+    100092: Plane069
+    100094: Plane070
+    100096: Plane072
+    100098: Plane073
+    100100: Plane074
+    100102: Plane075
+    100104: Plane076
+    100106: Shape005
+    100108: Shape006
+    100110: //RootNode
+    100112: T33_size_10_a
+    100114: Text012
+    100116: Text013
+    400000: bj6_002
+    400002: bj6_003
+    400004: bj6_004
+    400006: bj6_005
+    400008: bj6_006
+    400010: bj6_007
+    400012: bj6_008
+    400014: bj6_009
+    400016: bj6_01
+    400018: bj6_010
+    400020: bj6_011
+    400022: bj6_012
+    400024: bj6_013
+    400026: bj6_014
+    400028: bj6_015
+    400030: bj6_016
+    400032: bj6_017
+    400034: bj6_018
+    400036: bj6_019
+    400038: bj6_020
+    400040: bj6_021
+    400042: Dummy
+    400044: gg6_002
+    400046: gg6_003
+    400048: gg6_004
+    400050: gg6_005
+    400052: gg6_006
+    400054: gg6_007
+    400056: gg6_008
+    400058: gg6_009
+    400060: gg6_01
+    400062: gg6_010
+    400064: gg6_011
+    400066: gg6_012
+    400068: gg6_013
+    400070: gg6_014
+    400072: gg6_015
+    400074: gg6_016
+    400076: gg6_017
+    400078: gg6_018
+    400080: gg6_019
+    400082: gg6_020
+    400084: gg6_021
+    400086: Plane054
+    400088: Plane057
+    400090: Plane068
+    400092: Plane069
+    400094: Plane070
+    400096: Plane072
+    400098: Plane073
+    400100: Plane074
+    400102: Plane075
+    400104: Plane076
+    400106: Shape005
+    400108: Shape006
+    400110: //RootNode
+    400112: T33_size_10_a
+    400114: Text012
+    400116: Text013
+    2300000: Plane054
+    2300002: Plane057
+    2300004: Plane068
+    2300006: Plane069
+    2300008: Plane070
+    2300010: Plane074
+    2300012: Plane075
+    2300014: Plane076
+    2300016: Text012
+    2300018: Text013
+    3300000: Plane054
+    3300002: Plane057
+    3300004: Plane068
+    3300006: Plane069
+    3300008: Plane070
+    3300010: Plane074
+    3300012: Plane075
+    3300014: Plane076
+    3300016: Text012
+    3300018: Text013
+    4300000: Plane054
+    4300002: Plane069
+    4300004: Plane070
+    4300006: Text013
+    4300008: Plane068
+    4300010: Plane076
+    4300012: Plane074
+    4300014: Text012
+    4300016: Plane075
+    4300018: Plane057
+    4300020: Plane072
+    4300022: Plane073
+    7400000: Uns_AnimSize
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane072
+    13700002: Plane073
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimSize
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy
+        weight: 1
+      - path: T33_size_10_a
+        weight: 1
+      - path: T33_size_10_a/bj6_01
+        weight: 1
+      - path: T33_size_10_a/bj6_002
+        weight: 1
+      - path: T33_size_10_a/bj6_003
+        weight: 1
+      - path: T33_size_10_a/bj6_004
+        weight: 1
+      - path: T33_size_10_a/bj6_005
+        weight: 1
+      - path: T33_size_10_a/bj6_006
+        weight: 1
+      - path: T33_size_10_a/bj6_007
+        weight: 1
+      - path: T33_size_10_a/bj6_008
+        weight: 1
+      - path: T33_size_10_a/bj6_009
+        weight: 1
+      - path: T33_size_10_a/bj6_010
+        weight: 1
+      - path: T33_size_10_a/bj6_011
+        weight: 1
+      - path: T33_size_10_a/bj6_012
+        weight: 1
+      - path: T33_size_10_a/bj6_013
+        weight: 1
+      - path: T33_size_10_a/bj6_014
+        weight: 1
+      - path: T33_size_10_a/bj6_015
+        weight: 1
+      - path: T33_size_10_a/bj6_016
+        weight: 1
+      - path: T33_size_10_a/bj6_017
+        weight: 1
+      - path: T33_size_10_a/bj6_018
+        weight: 1
+      - path: T33_size_10_a/bj6_019
+        weight: 1
+      - path: T33_size_10_a/bj6_020
+        weight: 1
+      - path: T33_size_10_a/bj6_021
+        weight: 1
+      - path: T33_size_10_a/gg6_01
+        weight: 1
+      - path: T33_size_10_a/gg6_002
+        weight: 1
+      - path: T33_size_10_a/gg6_003
+        weight: 1
+      - path: T33_size_10_a/gg6_004
+        weight: 1
+      - path: T33_size_10_a/gg6_005
+        weight: 1
+      - path: T33_size_10_a/gg6_006
+        weight: 1
+      - path: T33_size_10_a/gg6_007
+        weight: 1
+      - path: T33_size_10_a/gg6_008
+        weight: 1
+      - path: T33_size_10_a/gg6_009
+        weight: 1
+      - path: T33_size_10_a/gg6_010
+        weight: 1
+      - path: T33_size_10_a/gg6_011
+        weight: 1
+      - path: T33_size_10_a/gg6_012
+        weight: 1
+      - path: T33_size_10_a/gg6_013
+        weight: 1
+      - path: T33_size_10_a/gg6_014
+        weight: 1
+      - path: T33_size_10_a/gg6_015
+        weight: 1
+      - path: T33_size_10_a/gg6_016
+        weight: 1
+      - path: T33_size_10_a/gg6_017
+        weight: 1
+      - path: T33_size_10_a/gg6_018
+        weight: 1
+      - path: T33_size_10_a/gg6_019
+        weight: 1
+      - path: T33_size_10_a/gg6_020
+        weight: 1
+      - path: T33_size_10_a/gg6_021
+        weight: 1
+      - path: T33_size_10_a/Plane054
+        weight: 1
+      - path: T33_size_10_a/Plane057
+        weight: 1
+      - path: T33_size_10_a/Plane068
+        weight: 1
+      - path: T33_size_10_a/Plane069
+        weight: 1
+      - path: T33_size_10_a/Plane070
+        weight: 1
+      - path: T33_size_10_a/Plane072
+        weight: 1
+      - path: T33_size_10_a/Plane073
+        weight: 1
+      - path: T33_size_10_a/Plane074
+        weight: 1
+      - path: T33_size_10_a/Plane075
+        weight: 1
+      - path: T33_size_10_a/Plane076
+        weight: 1
+      - path: T33_size_10_a/Shape005
+        weight: 1
+      - path: T33_size_10_a/Shape006
+        weight: 1
+      - path: T33_size_10_a/Text012
+        weight: 1
+      - path: T33_size_10_a/Text013
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

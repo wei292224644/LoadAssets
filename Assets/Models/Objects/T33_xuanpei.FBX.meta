@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 445db46508c738c419b8cf80bceca908
+timeCreated: 1477728339
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 01_zhinengxitong
+    100002: 02_zhuzhoudianji
+    100004: 03_zhuzhoudanyuan
+    100006: 04_daoguisigang
+    100008: 05_liangzhouzhoucheng
+    100010: 06_weitai
+    100012: 07_daojia
+    100014: 08_kapan_T33
+    100016: 09_yeyazhan
+    100018: 10_paixieqi_S
+    100020: 12_duidaoyi
+    100022: 13_fujiamen
+    100024: help_T33_add
+    100026: help_T33_cepaixiei_hide
+    100028: help_T33_houpaixie_hide
+    100030: T33_add_xiankuang-S
+    100032: T33_back_leftdoor-S
+    100034: T33_back_rightdoor-S
+    100036: T33_cepaixie_hide-S
+    100038: T33_daogui_1Z-S
+    100040: T33_daogui_2Z-S
+    100042: T33_daoguisigang_xiankuang-S
+    100044: T33_daojia-S
+    100046: T33_daojia_chuang'an-S
+    100048: T33_daojia_donghualian-S
+    100050: T33_daojia_xiankuang-S
+    100052: T33_daojiao_chuang'an_dizuo-S
+    100054: T33_diandongmen-S
+    100056: T33_dianxiang_left-S
+    100058: T33_dianxiang_right-S
+    100060: T33_dianxiang_zhu-S
+    100062: T33_duidaoyi-S
+    100064: T33_fujiamen-S
+    100066: T33_ground-S
+    100068: T33_houpaixie_hide-S
+    100070: T33_kapan-S
+    100072: T33_kapan_xiankuang-S
+    100074: T33_liangzhouzhoucheng_xiankuang-S
+    100076: T33_neifanghu_1Z-S
+    100078: T33_neifanghu_2Z-S
+    100080: T33_neifanghu_3Z-S
+    100082: T33_paixieqi-S
+    100084: T33_paixieqi_xiankuang-S
+    100086: T33_rightdoor-S
+    100088: T33_sigang-S
+    100090: T33_waifanghu-S
+    100092: T33_weitai_other-S
+    100094: T33_weitai_xp-S
+    100096: //RootNode
+    100098: T33_yeyazhan-S
+    100100: T33_yeyazhan_xiankuang-S
+    100102: T33_zhinengxitong-S
+    100104: T33_zhinengxitong_xiankuang-S
+    100106: T33_zhoucheng-S
+    100108: T33_zhuzhoudanyuan-S
+    100110: T33_zhuzhoudanyuan_xiankuang-S
+    100112: T33_zhuzhoudianji-S
+    100114: T33_zhuzhoudianji_xiankuang-S
+    100116: 08_kapan
+    100118: T33_daojia_1Z-S
+    100120: T33_daojia_2Z-S
+    100122: T33_kapan_1Z-S
+    100124: T33_kapan_2Z-S
+    100126: T33_kapan_3Z-S
+    100128: T33_kapan_4Z-S
+    100130: T33_zhoucheng_1Z-S
+    100132: T33_zhoucheng_1Z-S 1
+    100134: T33_zhoucheng_1Z-S 2
+    400000: 01_zhinengxitong
+    400002: 02_zhuzhoudianji
+    400004: 03_zhuzhoudanyuan
+    400006: 04_daoguisigang
+    400008: 05_liangzhouzhoucheng
+    400010: 06_weitai
+    400012: 07_daojia
+    400014: 08_kapan_T33
+    400016: 09_yeyazhan
+    400018: 10_paixieqi_S
+    400020: 12_duidaoyi
+    400022: 13_fujiamen
+    400024: help_T33_add
+    400026: help_T33_cepaixiei_hide
+    400028: help_T33_houpaixie_hide
+    400030: T33_add_xiankuang-S
+    400032: T33_back_leftdoor-S
+    400034: T33_back_rightdoor-S
+    400036: T33_cepaixie_hide-S
+    400038: T33_daogui_1Z-S
+    400040: T33_daogui_2Z-S
+    400042: T33_daoguisigang_xiankuang-S
+    400044: T33_daojia-S
+    400046: T33_daojia_chuang'an-S
+    400048: T33_daojia_donghualian-S
+    400050: T33_daojia_xiankuang-S
+    400052: T33_daojiao_chuang'an_dizuo-S
+    400054: T33_diandongmen-S
+    400056: T33_dianxiang_left-S
+    400058: T33_dianxiang_right-S
+    400060: T33_dianxiang_zhu-S
+    400062: T33_duidaoyi-S
+    400064: T33_fujiamen-S
+    400066: T33_ground-S
+    400068: T33_houpaixie_hide-S
+    400070: T33_kapan-S
+    400072: T33_kapan_xiankuang-S
+    400074: T33_liangzhouzhoucheng_xiankuang-S
+    400076: T33_neifanghu_1Z-S
+    400078: T33_neifanghu_2Z-S
+    400080: T33_neifanghu_3Z-S
+    400082: T33_paixieqi-S
+    400084: T33_paixieqi_xiankuang-S
+    400086: T33_rightdoor-S
+    400088: T33_sigang-S
+    400090: T33_waifanghu-S
+    400092: T33_weitai_other-S
+    400094: T33_weitai_xp-S
+    400096: //RootNode
+    400098: T33_yeyazhan-S
+    400100: T33_yeyazhan_xiankuang-S
+    400102: T33_zhinengxitong-S
+    400104: T33_zhinengxitong_xiankuang-S
+    400106: T33_zhoucheng-S
+    400108: T33_zhuzhoudanyuan-S
+    400110: T33_zhuzhoudanyuan_xiankuang-S
+    400112: T33_zhuzhoudianji-S
+    400114: T33_zhuzhoudianji_xiankuang-S
+    400116: 08_kapan
+    400118: T33_daojia_1Z-S
+    400120: T33_daojia_2Z-S
+    400122: T33_kapan_1Z-S
+    400124: T33_kapan_2Z-S
+    400126: T33_kapan_3Z-S
+    400128: T33_kapan_4Z-S
+    400130: T33_zhoucheng_1Z-S
+    400132: T33_zhoucheng_1Z-S 1
+    400134: T33_zhoucheng_1Z-S 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

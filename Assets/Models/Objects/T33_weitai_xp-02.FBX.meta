@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: e596620caf9281642b4612ddde3f4d31
+timeCreated: 1477732189
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: T33_chuangshen_xuanpei_08
+    100002: T33_chuangshen_xuanpei_10
+    100004: T33_chuangshen_xuanpei_16
+    100006: T33_chuangshen_xuanpei_25
+    100008: T33_chuangshen_xuanpei_28
+    100010: T33_chuangshen_xuanpei_33
+    100012: T33_chuangshen_xuanpei_44
+    100014: T33_weitai_04
+    100016: T33_weitai_06
+    100018: T33_weitai_07
+    100020: T33_weitai_08
+    100022: T33_weitai_09
+    100024: T33_weitai_12
+    100026: T33_weitai_14
+    100028: T33_weitai_16
+    100030: //RootNode
+    400000: T33_chuangshen_xuanpei_08
+    400002: T33_chuangshen_xuanpei_10
+    400004: T33_chuangshen_xuanpei_16
+    400006: T33_chuangshen_xuanpei_25
+    400008: T33_chuangshen_xuanpei_28
+    400010: T33_chuangshen_xuanpei_33
+    400012: T33_chuangshen_xuanpei_44
+    400014: T33_weitai_04
+    400016: T33_weitai_06
+    400018: T33_weitai_07
+    400020: T33_weitai_08
+    400022: T33_weitai_09
+    400024: T33_weitai_12
+    400026: T33_weitai_14
+    400028: T33_weitai_16
+    400030: //RootNode
+    2300000: T33_chuangshen_xuanpei_08
+    2300002: T33_chuangshen_xuanpei_10
+    2300004: T33_chuangshen_xuanpei_16
+    2300006: T33_chuangshen_xuanpei_25
+    2300008: T33_chuangshen_xuanpei_28
+    2300010: T33_chuangshen_xuanpei_33
+    2300012: T33_chuangshen_xuanpei_44
+    2300014: T33_weitai_04
+    2300016: T33_weitai_06
+    2300018: T33_weitai_07
+    2300020: T33_weitai_08
+    2300022: T33_weitai_09
+    2300024: T33_weitai_12
+    2300026: T33_weitai_14
+    2300028: T33_weitai_16
+    3300000: T33_chuangshen_xuanpei_08
+    3300002: T33_chuangshen_xuanpei_10
+    3300004: T33_chuangshen_xuanpei_16
+    3300006: T33_chuangshen_xuanpei_25
+    3300008: T33_chuangshen_xuanpei_28
+    3300010: T33_chuangshen_xuanpei_33
+    3300012: T33_chuangshen_xuanpei_44
+    3300014: T33_weitai_04
+    3300016: T33_weitai_06
+    3300018: T33_weitai_07
+    3300020: T33_weitai_08
+    3300022: T33_weitai_09
+    3300024: T33_weitai_12
+    3300026: T33_weitai_14
+    3300028: T33_weitai_16
+    4300000: T33_chuangshen_xuanpei_28
+    4300002: T33_chuangshen_xuanpei_25
+    4300004: T33_weitai_06
+    4300006: T33_weitai_04
+    4300008: T33_chuangshen_xuanpei_08
+    4300010: T33_weitai_14
+    4300012: T33_weitai_12
+    4300014: T33_chuangshen_xuanpei_44
+    4300016: T33_chuangshen_xuanpei_33
+    4300018: T33_chuangshen_xuanpei_10
+    4300020: T33_chuangshen_xuanpei_16
+    4300022: T33_weitai_16
+    4300024: T33_weitai_07
+    4300026: T33_weitai_08
+    4300028: T33_weitai_09
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

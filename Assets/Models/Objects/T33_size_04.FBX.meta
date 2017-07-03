@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 9d22e1308b71a4b49b8e31ab78a5420e
+timeCreated: 1477817601
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy
+    100002: Plane137
+    100004: Plane138
+    100006: Plane139
+    100008: Plane140
+    100010: Plane141
+    100012: //RootNode
+    100014: T33_size_04_a
+    100016: Text023
+    400000: Dummy
+    400002: Plane137
+    400004: Plane138
+    400006: Plane139
+    400008: Plane140
+    400010: Plane141
+    400012: //RootNode
+    400014: T33_size_04_a
+    400016: Text023
+    2300000: Plane137
+    2300002: Plane138
+    2300004: Plane139
+    2300006: Plane140
+    2300008: Plane141
+    2300010: Text023
+    3300000: Plane137
+    3300002: Plane138
+    3300004: Plane139
+    3300006: Plane140
+    3300008: Plane141
+    3300010: Text023
+    4300000: Plane138
+    4300002: Plane139
+    4300004: Plane140
+    4300006: Plane141
+    4300008: Text023
+    4300010: Plane137
+    7400000: Uns_AnimSize
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimSize
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy
+        weight: 1
+      - path: T33_size_04_a
+        weight: 1
+      - path: T33_size_04_a/Plane137
+        weight: 1
+      - path: T33_size_04_a/Plane138
+        weight: 1
+      - path: T33_size_04_a/Plane139
+        weight: 1
+      - path: T33_size_04_a/Plane140
+        weight: 1
+      - path: T33_size_04_a/Plane141
+        weight: 1
+      - path: T33_size_04_a/Text023
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

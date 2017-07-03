@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 65cf0cc0c8525ab4dbab4f497cd55af6
+timeCreated: 1477728342
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone01_T33_3dao_jiagongjian_moxing
+    100002: Bone01_T33_4dao_jiagongjian_moxing_1
+    100004: Bone01_T33_4dao_jiagongjian_moxing_2
+    100006: Bone02_T33_3dao_jiagongjian_moxing
+    100008: Bone02_T33_4dao_jiagongjian_moxing_1
+    100010: Bone02_T33_4dao_jiagongjian_moxing_2
+    100012: Bone03_T33_3dao_jiagongjian_moxing
+    100014: Bone04_T33_3dao_jiagongjian_moxing
+    100016: Bone05_T33_3dao_jiagongjian_moxing
+    100018: Bone06_T33_3dao_jiagongjian_moxing
+    100020: Bone07_T33_3dao_jiagongjian_moxing
+    100022: Bone08_T33_3dao_jiagongjian_moxing
+    100024: Bone09_T33_3dao_jiagongjian_moxing
+    100026: Dummy_T33_1dao_jiagongjian_moxing_1
+    100028: Dummy_T33_1dao_jiagongjian_moxing_2
+    100030: Dummy_T33_1dao_jiagongjian_moxing_3
+    100032: Dummy_T33_2dao_jiagongjian_moxing_1
+    100034: Dummy_T33_2dao_jiagongjian_moxing_2
+    100036: Dummy_T33_2dao_jiagongjian_moxing_3
+    100038: Dummy_T33_2dao_jiagongjian_moxing_4
+    100040: Dummy_T33_3dao_jiagongjian_moxing
+    100042: Dummy_T33_4dao_jiagongjian_moxing_1
+    100044: Dummy_T33_4dao_jiagongjian_moxing_2
+    100046: Dummy_T33_5dao_jiagongjian_moxing_1
+    100048: Dummy_T33_5dao_jiagongjian_moxing_2
+    100050: Dummy_T33_5dao_jiagongjian_moxing_3
+    100052: Dummy_T33_5dao_jiagongjian_moxing_4
+    100054: Dummy_T33_6dao_jiagongjian_moxing
+    100056: Dummy_T33_jiagongjian_moxing
+    100058: T33_1dao_jiagongjian_moxing_1
+    100060: T33_1dao_jiagongjian_moxing_2
+    100062: T33_1dao_jiagongjian_moxing_3
+    100064: T33_2dao_jiagongjian_moxing_1
+    100066: T33_2dao_jiagongjian_moxing_2
+    100068: T33_2dao_jiagongjian_moxing_3
+    100070: T33_2dao_jiagongjian_moxing_4
+    100072: T33_3dao_jiagongjian_moxing
+    100074: T33_4dao_jiagongjian_moxing_1
+    100076: T33_4dao_jiagongjian_moxing_2
+    100078: T33_5dao_jiagongjian_moxing_1
+    100080: T33_5dao_jiagongjian_moxing_2
+    100082: T33_5dao_jiagongjian_moxing_3
+    100084: T33_5dao_jiagongjian_moxing_4
+    100086: T33_6dao_jiagongjian_moxing
+    100088: T33_jiagongjian_moxing
+    100090: //RootNode
+    400000: Bone01_T33_3dao_jiagongjian_moxing
+    400002: Bone01_T33_4dao_jiagongjian_moxing_1
+    400004: Bone01_T33_4dao_jiagongjian_moxing_2
+    400006: Bone02_T33_3dao_jiagongjian_moxing
+    400008: Bone02_T33_4dao_jiagongjian_moxing_1
+    400010: Bone02_T33_4dao_jiagongjian_moxing_2
+    400012: Bone03_T33_3dao_jiagongjian_moxing
+    400014: Bone04_T33_3dao_jiagongjian_moxing
+    400016: Bone05_T33_3dao_jiagongjian_moxing
+    400018: Bone06_T33_3dao_jiagongjian_moxing
+    400020: Bone07_T33_3dao_jiagongjian_moxing
+    400022: Bone08_T33_3dao_jiagongjian_moxing
+    400024: Bone09_T33_3dao_jiagongjian_moxing
+    400026: Dummy_T33_1dao_jiagongjian_moxing_1
+    400028: Dummy_T33_1dao_jiagongjian_moxing_2
+    400030: Dummy_T33_1dao_jiagongjian_moxing_3
+    400032: Dummy_T33_2dao_jiagongjian_moxing_1
+    400034: Dummy_T33_2dao_jiagongjian_moxing_2
+    400036: Dummy_T33_2dao_jiagongjian_moxing_3
+    400038: Dummy_T33_2dao_jiagongjian_moxing_4
+    400040: Dummy_T33_3dao_jiagongjian_moxing
+    400042: Dummy_T33_4dao_jiagongjian_moxing_1
+    400044: Dummy_T33_4dao_jiagongjian_moxing_2
+    400046: Dummy_T33_5dao_jiagongjian_moxing_1
+    400048: Dummy_T33_5dao_jiagongjian_moxing_2
+    400050: Dummy_T33_5dao_jiagongjian_moxing_3
+    400052: Dummy_T33_5dao_jiagongjian_moxing_4
+    400054: Dummy_T33_6dao_jiagongjian_moxing
+    400056: Dummy_T33_jiagongjian_moxing
+    400058: T33_1dao_jiagongjian_moxing_1
+    400060: T33_1dao_jiagongjian_moxing_2
+    400062: T33_1dao_jiagongjian_moxing_3
+    400064: T33_2dao_jiagongjian_moxing_1
+    400066: T33_2dao_jiagongjian_moxing_2
+    400068: T33_2dao_jiagongjian_moxing_3
+    400070: T33_2dao_jiagongjian_moxing_4
+    400072: T33_3dao_jiagongjian_moxing
+    400074: T33_4dao_jiagongjian_moxing_1
+    400076: T33_4dao_jiagongjian_moxing_2
+    400078: T33_5dao_jiagongjian_moxing_1
+    400080: T33_5dao_jiagongjian_moxing_2
+    400082: T33_5dao_jiagongjian_moxing_3
+    400084: T33_5dao_jiagongjian_moxing_4
+    400086: T33_6dao_jiagongjian_moxing
+    400088: T33_jiagongjian_moxing
+    400090: //RootNode
+    2300000: T33_1dao_jiagongjian_moxing_1
+    2300002: T33_1dao_jiagongjian_moxing_2
+    2300004: T33_1dao_jiagongjian_moxing_3
+    2300006: T33_2dao_jiagongjian_moxing_1
+    2300008: T33_2dao_jiagongjian_moxing_2
+    2300010: T33_2dao_jiagongjian_moxing_3
+    2300012: T33_2dao_jiagongjian_moxing_4
+    2300014: T33_5dao_jiagongjian_moxing_1
+    2300016: T33_5dao_jiagongjian_moxing_2
+    2300018: T33_5dao_jiagongjian_moxing_3
+    2300020: T33_5dao_jiagongjian_moxing_4
+    2300022: T33_6dao_jiagongjian_moxing
+    2300024: T33_jiagongjian_moxing
+    2300026: T33_3dao_jiagongjian_moxing
+    2300028: T33_4dao_jiagongjian_moxing_1
+    2300030: T33_4dao_jiagongjian_moxing_2
+    3300000: T33_1dao_jiagongjian_moxing_1
+    3300002: T33_1dao_jiagongjian_moxing_2
+    3300004: T33_1dao_jiagongjian_moxing_3
+    3300006: T33_2dao_jiagongjian_moxing_1
+    3300008: T33_2dao_jiagongjian_moxing_2
+    3300010: T33_2dao_jiagongjian_moxing_3
+    3300012: T33_2dao_jiagongjian_moxing_4
+    3300014: T33_5dao_jiagongjian_moxing_1
+    3300016: T33_5dao_jiagongjian_moxing_2
+    3300018: T33_5dao_jiagongjian_moxing_3
+    3300020: T33_5dao_jiagongjian_moxing_4
+    3300022: T33_6dao_jiagongjian_moxing
+    3300024: T33_jiagongjian_moxing
+    3300026: T33_3dao_jiagongjian_moxing
+    3300028: T33_4dao_jiagongjian_moxing_1
+    3300030: T33_4dao_jiagongjian_moxing_2
+    4300000: T33_jiagongjian_moxing
+    4300002: T33_1dao_jiagongjian_moxing_1
+    4300004: T33_1dao_jiagongjian_moxing_3
+    4300006: T33_1dao_jiagongjian_moxing_2
+    4300008: T33_2dao_jiagongjian_moxing_3
+    4300010: T33_2dao_jiagongjian_moxing_4
+    4300012: T33_2dao_jiagongjian_moxing_2
+    4300014: T33_2dao_jiagongjian_moxing_1
+    4300016: T33_3dao_jiagongjian_moxing
+    4300018: T33_4dao_jiagongjian_moxing_1
+    4300020: T33_4dao_jiagongjian_moxing_2
+    4300022: T33_5dao_jiagongjian_moxing_4
+    4300024: T33_5dao_jiagongjian_moxing_3
+    4300026: T33_5dao_jiagongjian_moxing_2
+    4300028: T33_5dao_jiagongjian_moxing_1
+    4300030: T33_6dao_jiagongjian_moxing
+    7400000: Uns_AnimProcess
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: T33_3dao_jiagongjian_moxing
+    13700002: T33_4dao_jiagongjian_moxing_1
+    13700004: T33_4dao_jiagongjian_moxing_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimProcess
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 3373
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy_T33_1dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_1dao_jiagongjian_moxing_1/T33_1dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_1dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_1dao_jiagongjian_moxing_2/T33_1dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_1dao_jiagongjian_moxing_3
+        weight: 1
+      - path: Dummy_T33_1dao_jiagongjian_moxing_3/T33_1dao_jiagongjian_moxing_3
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_1/T33_2dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_2/T33_2dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_3
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_3/T33_2dao_jiagongjian_moxing_3
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_4
+        weight: 1
+      - path: Dummy_T33_2dao_jiagongjian_moxing_4/T33_2dao_jiagongjian_moxing_4
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone01_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone02_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone03_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone04_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone05_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone06_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone07_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone08_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/Bone09_T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_3dao_jiagongjian_moxing/T33_3dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_1/Bone01_T33_4dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_1/Bone02_T33_4dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_1/T33_4dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_2/Bone01_T33_4dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_2/Bone02_T33_4dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_4dao_jiagongjian_moxing_2/T33_4dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_1/T33_5dao_jiagongjian_moxing_1
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_2/T33_5dao_jiagongjian_moxing_2
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_3
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_3/T33_5dao_jiagongjian_moxing_3
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_4
+        weight: 1
+      - path: Dummy_T33_5dao_jiagongjian_moxing_4/T33_5dao_jiagongjian_moxing_4
+        weight: 1
+      - path: Dummy_T33_6dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_6dao_jiagongjian_moxing/T33_6dao_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_jiagongjian_moxing
+        weight: 1
+      - path: Dummy_T33_jiagongjian_moxing/T33_jiagongjian_moxing
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

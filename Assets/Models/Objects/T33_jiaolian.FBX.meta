@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: a4b96b1d43a6abc4ba150d18a2c720de
+timeCreated: 1477728348
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: T33_0_181
+    100002: T33_0_182
+    100004: T33_0_183
+    100006: T33_0_184
+    100008: T33_0_185
+    100010: T33_0_186
+    100012: T33_0_187
+    100014: T33_0_188
+    100016: T33_0_189
+    100018: T33_0_190
+    100020: T33_0_191
+    100022: T33_0_192
+    100024: T33_0_193
+    100026: T33_0_194
+    100028: T33_0_195
+    100030: T33_0_196
+    100032: T33_0_197
+    100034: T33_0_198
+    100036: T33_0_199
+    100038: T33_0_200
+    100040: T33_0_201
+    100042: T33_0_202
+    100044: T33_0_203
+    100046: T33_0_204
+    100048: T33_0_205
+    100050: //RootNode
+    400000: T33_0_181
+    400002: T33_0_182
+    400004: T33_0_183
+    400006: T33_0_184
+    400008: T33_0_185
+    400010: T33_0_186
+    400012: T33_0_187
+    400014: T33_0_188
+    400016: T33_0_189
+    400018: T33_0_190
+    400020: T33_0_191
+    400022: T33_0_192
+    400024: T33_0_193
+    400026: T33_0_194
+    400028: T33_0_195
+    400030: T33_0_196
+    400032: T33_0_197
+    400034: T33_0_198
+    400036: T33_0_199
+    400038: T33_0_200
+    400040: T33_0_201
+    400042: T33_0_202
+    400044: T33_0_203
+    400046: T33_0_204
+    400048: T33_0_205
+    400050: //RootNode
+    2300000: T33_0_182
+    3300000: T33_0_182
+    4300000: T33_0_182
+    7400000: Uns_AnimProcess
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: T33_0_182
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimProcess
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 3373
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: T33_0_181
+        weight: 1
+      - path: T33_0_181/T33_0_182
+        weight: 1
+      - path: T33_0_181/T33_0_183
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188/T33_0_189
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188/T33_0_189/T33_0_190
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188/T33_0_189/T33_0_190/T33_0_191
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188/T33_0_189/T33_0_190/T33_0_191/T33_0_192
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188/T33_0_189/T33_0_190/T33_0_191/T33_0_192/T33_0_193
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188/T33_0_189/T33_0_190/T33_0_191/T33_0_192/T33_0_193/T33_0_194
+        weight: 1
+      - path: T33_0_181/T33_0_183/T33_0_184/T33_0_185/T33_0_186/T33_0_187/T33_0_188/T33_0_189/T33_0_190/T33_0_191/T33_0_192/T33_0_193/T33_0_194/T33_0_195
+        weight: 1
+      - path: T33_0_181/T33_0_196
+        weight: 1
+      - path: T33_0_181/T33_0_196/T33_0_197
+        weight: 1
+      - path: T33_0_181/T33_0_196/T33_0_197/T33_0_198
+        weight: 1
+      - path: T33_0_181/T33_0_196/T33_0_197/T33_0_198/T33_0_199
+        weight: 1
+      - path: T33_0_181/T33_0_196/T33_0_197/T33_0_198/T33_0_199/T33_0_200
+        weight: 1
+      - path: T33_0_181/T33_0_196/T33_0_197/T33_0_198/T33_0_199/T33_0_200/T33_0_201
+        weight: 1
+      - path: T33_0_181/T33_0_196/T33_0_197/T33_0_198/T33_0_199/T33_0_200/T33_0_201/T33_0_202
+        weight: 1
+      - path: T33_0_181/T33_0_196/T33_0_197/T33_0_198/T33_0_199/T33_0_200/T33_0_201/T33_0_202/T33_0_203
+        weight: 1
+      - path: T33_0_181/T33_0_204
+        weight: 1
+      - path: T33_0_181/T33_0_205
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

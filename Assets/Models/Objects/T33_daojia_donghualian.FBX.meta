@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: d1608239ceb84df4e89bb433c3fc4817
+timeCreated: 1477728351
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: jiaolian_00
+    100002: jiaolian_01
+    100004: jiaolian_02
+    100006: jiaolian_03
+    100008: jiaolian_04
+    100010: jiaolian_05
+    100012: jiaolian_06
+    100014: jiaolian_07
+    100016: jiaolian_08
+    100018: jiaolian_09
+    100020: jiaolian_10
+    100022: jiaolian_11
+    100024: jiaolian_12
+    100026: jiaolian_P_002
+    100028: jiaolian_P_003
+    100030: jiaolian_P_004
+    100032: jiaolian_P_005
+    100034: jiaolian_P_006
+    100036: jiaolian_P_007
+    100038: jiaolian_P_008
+    100040: jiaolian_P_009
+    100042: jiaolian_P_01
+    100044: jiaolian_P_010
+    100046: jiaolian_P_011
+    100048: jiaolian_R_002
+    100050: jiaolian_R_003
+    100052: jiaolian_R_004
+    100054: jiaolian_R_005
+    100056: jiaolian_R_006
+    100058: jiaolian_R_007
+    100060: jiaolian_R_008
+    100062: jiaolian_R_009
+    100064: jiaolian_R_01
+    100066: jiaolian_R_010
+    100068: jiaolian_R_011
+    100070: //RootNode
+    400000: jiaolian_00
+    400002: jiaolian_01
+    400004: jiaolian_02
+    400006: jiaolian_03
+    400008: jiaolian_04
+    400010: jiaolian_05
+    400012: jiaolian_06
+    400014: jiaolian_07
+    400016: jiaolian_08
+    400018: jiaolian_09
+    400020: jiaolian_10
+    400022: jiaolian_11
+    400024: jiaolian_12
+    400026: jiaolian_P_002
+    400028: jiaolian_P_003
+    400030: jiaolian_P_004
+    400032: jiaolian_P_005
+    400034: jiaolian_P_006
+    400036: jiaolian_P_007
+    400038: jiaolian_P_008
+    400040: jiaolian_P_009
+    400042: jiaolian_P_01
+    400044: jiaolian_P_010
+    400046: jiaolian_P_011
+    400048: jiaolian_R_002
+    400050: jiaolian_R_003
+    400052: jiaolian_R_004
+    400054: jiaolian_R_005
+    400056: jiaolian_R_006
+    400058: jiaolian_R_007
+    400060: jiaolian_R_008
+    400062: jiaolian_R_009
+    400064: jiaolian_R_01
+    400066: jiaolian_R_010
+    400068: jiaolian_R_011
+    400070: //RootNode
+    2300000: jiaolian_00
+    2300002: jiaolian_01
+    2300004: jiaolian_02
+    2300006: jiaolian_03
+    2300008: jiaolian_04
+    2300010: jiaolian_05
+    2300012: jiaolian_06
+    2300014: jiaolian_07
+    2300016: jiaolian_08
+    2300018: jiaolian_09
+    2300020: jiaolian_10
+    2300022: jiaolian_11
+    2300024: jiaolian_12
+    3300000: jiaolian_00
+    3300002: jiaolian_01
+    3300004: jiaolian_02
+    3300006: jiaolian_03
+    3300008: jiaolian_04
+    3300010: jiaolian_05
+    3300012: jiaolian_06
+    3300014: jiaolian_07
+    3300016: jiaolian_08
+    3300018: jiaolian_09
+    3300020: jiaolian_10
+    3300022: jiaolian_11
+    3300024: jiaolian_12
+    4300000: jiaolian_12
+    4300002: jiaolian_11
+    4300004: jiaolian_10
+    4300006: jiaolian_09
+    4300008: jiaolian_08
+    4300010: jiaolian_07
+    4300012: jiaolian_06
+    4300014: jiaolian_05
+    4300016: jiaolian_04
+    4300018: jiaolian_03
+    4300020: jiaolian_02
+    4300022: jiaolian_01
+    4300024: jiaolian_00
+    7400000: Uns_AnimProcessRange
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimProcessRange
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: jiaolian_P_01
+        weight: 1
+      - path: jiaolian_P_01/jiaolian_11
+        weight: 1
+      - path: jiaolian_P_01/jiaolian_R_01
+        weight: 1
+      - path: jiaolian_P_01/jiaolian_R_01/jiaolian_12
+        weight: 1
+      - path: jiaolian_P_002
+        weight: 1
+      - path: jiaolian_P_002/jiaolian_R_002
+        weight: 1
+      - path: jiaolian_P_002/jiaolian_R_002/jiaolian_10
+        weight: 1
+      - path: jiaolian_P_003
+        weight: 1
+      - path: jiaolian_P_003/jiaolian_R_003
+        weight: 1
+      - path: jiaolian_P_003/jiaolian_R_003/jiaolian_09
+        weight: 1
+      - path: jiaolian_P_004
+        weight: 1
+      - path: jiaolian_P_004/jiaolian_R_004
+        weight: 1
+      - path: jiaolian_P_004/jiaolian_R_004/jiaolian_08
+        weight: 1
+      - path: jiaolian_P_005
+        weight: 1
+      - path: jiaolian_P_005/jiaolian_06
+        weight: 1
+      - path: jiaolian_P_005/jiaolian_R_005
+        weight: 1
+      - path: jiaolian_P_005/jiaolian_R_005/jiaolian_07
+        weight: 1
+      - path: jiaolian_P_006
+        weight: 1
+      - path: jiaolian_P_006/jiaolian_R_006
+        weight: 1
+      - path: jiaolian_P_006/jiaolian_R_006/jiaolian_05
+        weight: 1
+      - path: jiaolian_P_007
+        weight: 1
+      - path: jiaolian_P_007/jiaolian_R_007
+        weight: 1
+      - path: jiaolian_P_007/jiaolian_R_007/jiaolian_04
+        weight: 1
+      - path: jiaolian_P_008
+        weight: 1
+      - path: jiaolian_P_008/jiaolian_R_008
+        weight: 1
+      - path: jiaolian_P_008/jiaolian_R_008/jiaolian_03
+        weight: 1
+      - path: jiaolian_P_009
+        weight: 1
+      - path: jiaolian_P_009/jiaolian_R_009
+        weight: 1
+      - path: jiaolian_P_009/jiaolian_R_009/jiaolian_02
+        weight: 1
+      - path: jiaolian_P_010
+        weight: 1
+      - path: jiaolian_P_010/jiaolian_R_010
+        weight: 1
+      - path: jiaolian_P_010/jiaolian_R_010/jiaolian_01
+        weight: 1
+      - path: jiaolian_P_011
+        weight: 1
+      - path: jiaolian_P_011/jiaolian_R_011
+        weight: 1
+      - path: jiaolian_P_011/jiaolian_R_011/jiaolian_00
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

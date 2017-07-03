@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: c77d2f87e08a4394ab4df59b32ca94ad
+timeCreated: 1477817601
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy
+    100002: Plane050
+    100004: Plane051
+    100006: Plane052
+    100008: Plane053
+    100010: //RootNode
+    100012: T33_size_09_a
+    100014: Text008
+    100016: bj6_002
+    100018: bj6_003
+    100020: bj6_004
+    100022: bj6_005
+    100024: bj6_006
+    100026: bj6_007
+    100028: bj6_008
+    100030: bj6_009
+    100032: bj6_01
+    100034: bj6_010
+    100036: bj6_011
+    100038: bj6_012
+    100040: bj6_013
+    100042: bj6_014
+    100044: bj6_015
+    100046: bj6_016
+    100048: bj6_017
+    100050: bj6_018
+    100052: bj6_019
+    100054: bj6_020
+    100056: bj6_021
+    100058: gg6_002
+    100060: gg6_003
+    100062: gg6_004
+    100064: gg6_005
+    100066: gg6_006
+    100068: gg6_007
+    100070: gg6_008
+    100072: gg6_009
+    100074: gg6_01
+    100076: gg6_010
+    100078: gg6_011
+    100080: gg6_012
+    100082: gg6_013
+    100084: gg6_014
+    100086: gg6_015
+    100088: gg6_016
+    100090: gg6_017
+    100092: gg6_018
+    100094: gg6_019
+    100096: gg6_020
+    100098: gg6_021
+    100100: Plane054
+    100102: Plane057
+    100104: Plane068
+    100106: Plane069
+    100108: Plane070
+    100110: Plane072
+    100112: Plane073
+    100114: Plane074
+    100116: Plane075
+    100118: Plane076
+    100120: Shape005
+    100122: Shape006
+    100124: T33_size_10_a
+    100126: Text012
+    100128: Text013
+    400000: Dummy
+    400002: Plane050
+    400004: Plane051
+    400006: Plane052
+    400008: Plane053
+    400010: //RootNode
+    400012: T33_size_09_a
+    400014: Text008
+    400016: bj6_002
+    400018: bj6_003
+    400020: bj6_004
+    400022: bj6_005
+    400024: bj6_006
+    400026: bj6_007
+    400028: bj6_008
+    400030: bj6_009
+    400032: bj6_01
+    400034: bj6_010
+    400036: bj6_011
+    400038: bj6_012
+    400040: bj6_013
+    400042: bj6_014
+    400044: bj6_015
+    400046: bj6_016
+    400048: bj6_017
+    400050: bj6_018
+    400052: bj6_019
+    400054: bj6_020
+    400056: bj6_021
+    400058: gg6_002
+    400060: gg6_003
+    400062: gg6_004
+    400064: gg6_005
+    400066: gg6_006
+    400068: gg6_007
+    400070: gg6_008
+    400072: gg6_009
+    400074: gg6_01
+    400076: gg6_010
+    400078: gg6_011
+    400080: gg6_012
+    400082: gg6_013
+    400084: gg6_014
+    400086: gg6_015
+    400088: gg6_016
+    400090: gg6_017
+    400092: gg6_018
+    400094: gg6_019
+    400096: gg6_020
+    400098: gg6_021
+    400100: Plane054
+    400102: Plane057
+    400104: Plane068
+    400106: Plane069
+    400108: Plane070
+    400110: Plane072
+    400112: Plane073
+    400114: Plane074
+    400116: Plane075
+    400118: Plane076
+    400120: Shape005
+    400122: Shape006
+    400124: T33_size_10_a
+    400126: Text012
+    400128: Text013
+    2300000: Plane050
+    2300002: Plane051
+    2300004: Plane052
+    2300006: Plane053
+    2300008: Text008
+    2300010: Plane054
+    2300012: Plane057
+    2300014: Plane068
+    2300016: Plane069
+    2300018: Plane070
+    2300020: Plane074
+    2300022: Plane075
+    2300024: Plane076
+    2300026: Text012
+    2300028: Text013
+    3300000: Plane050
+    3300002: Plane051
+    3300004: Plane052
+    3300006: Plane053
+    3300008: Text008
+    3300010: Plane054
+    3300012: Plane057
+    3300014: Plane068
+    3300016: Plane069
+    3300018: Plane070
+    3300020: Plane074
+    3300022: Plane075
+    3300024: Plane076
+    3300026: Text012
+    3300028: Text013
+    4300000: Plane051
+    4300002: Plane052
+    4300004: Plane053
+    4300006: Text008
+    4300008: Plane050
+    4300010: Plane054
+    4300012: Plane069
+    4300014: Plane070
+    4300016: Text013
+    4300018: Plane068
+    4300020: Plane076
+    4300022: Plane074
+    4300024: Text012
+    4300026: Plane075
+    4300028: Plane057
+    4300030: Plane072
+    4300032: Plane073
+    7400000: Uns_AnimSize
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane072
+    13700002: Plane073
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimSize
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy
+        weight: 1
+      - path: T33_size_09_a
+        weight: 1
+      - path: T33_size_09_a/Plane050
+        weight: 1
+      - path: T33_size_09_a/Plane051
+        weight: 1
+      - path: T33_size_09_a/Plane052
+        weight: 1
+      - path: T33_size_09_a/Plane053
+        weight: 1
+      - path: T33_size_09_a/Text008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

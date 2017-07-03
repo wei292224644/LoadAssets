@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 323880da3e5dbf0408b3ef1d29a7eb7a
+timeCreated: 1477817600
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bj6_022
+    100002: bj6_023
+    100004: bj6_024
+    100006: bj6_025
+    100008: bj6_026
+    100010: bj6_027
+    100012: bj6_028
+    100014: bj6_029
+    100016: bj6_030
+    100018: bj6_031
+    100020: bj6_032
+    100022: bj6_033
+    100024: bj6_034
+    100026: bj6_035
+    100028: bj6_036
+    100030: bj6_037
+    100032: bj6_038
+    100034: bj6_039
+    100036: bj6_040
+    100038: bj6_041
+    100040: bj6_042
+    100042: Dummy
+    100044: Plane129
+    100046: Plane130
+    100048: Plane131
+    100050: Plane132
+    100052: Plane133
+    100054: Plane135
+    100056: Plane136
+    100058: Shape007
+    100060: //RootNode
+    100062: T33_size_03_a
+    100064: Text025
+    400000: bj6_022
+    400002: bj6_023
+    400004: bj6_024
+    400006: bj6_025
+    400008: bj6_026
+    400010: bj6_027
+    400012: bj6_028
+    400014: bj6_029
+    400016: bj6_030
+    400018: bj6_031
+    400020: bj6_032
+    400022: bj6_033
+    400024: bj6_034
+    400026: bj6_035
+    400028: bj6_036
+    400030: bj6_037
+    400032: bj6_038
+    400034: bj6_039
+    400036: bj6_040
+    400038: bj6_041
+    400040: bj6_042
+    400042: Dummy
+    400044: Plane129
+    400046: Plane130
+    400048: Plane131
+    400050: Plane132
+    400052: Plane133
+    400054: Plane135
+    400056: Plane136
+    400058: Shape007
+    400060: //RootNode
+    400062: T33_size_03_a
+    400064: Text025
+    2300000: Plane129
+    2300002: Plane130
+    2300004: Plane131
+    2300006: Plane133
+    2300008: Plane135
+    2300010: Plane136
+    2300012: Text025
+    3300000: Plane129
+    3300002: Plane130
+    3300004: Plane131
+    3300006: Plane133
+    3300008: Plane135
+    3300010: Plane136
+    3300012: Text025
+    4300000: Plane129
+    4300002: Plane130
+    4300004: Plane131
+    4300006: Plane133
+    4300008: Plane135
+    4300010: Plane136
+    4300012: Text025
+    4300014: Plane132
+    7400000: Uns_AnimSize
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane132
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimSize
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy
+        weight: 1
+      - path: T33_size_03_a
+        weight: 1
+      - path: T33_size_03_a/bj6_022
+        weight: 1
+      - path: T33_size_03_a/bj6_023
+        weight: 1
+      - path: T33_size_03_a/bj6_024
+        weight: 1
+      - path: T33_size_03_a/bj6_025
+        weight: 1
+      - path: T33_size_03_a/bj6_026
+        weight: 1
+      - path: T33_size_03_a/bj6_027
+        weight: 1
+      - path: T33_size_03_a/bj6_028
+        weight: 1
+      - path: T33_size_03_a/bj6_029
+        weight: 1
+      - path: T33_size_03_a/bj6_030
+        weight: 1
+      - path: T33_size_03_a/bj6_031
+        weight: 1
+      - path: T33_size_03_a/bj6_032
+        weight: 1
+      - path: T33_size_03_a/bj6_033
+        weight: 1
+      - path: T33_size_03_a/bj6_034
+        weight: 1
+      - path: T33_size_03_a/bj6_035
+        weight: 1
+      - path: T33_size_03_a/bj6_036
+        weight: 1
+      - path: T33_size_03_a/bj6_037
+        weight: 1
+      - path: T33_size_03_a/bj6_038
+        weight: 1
+      - path: T33_size_03_a/bj6_039
+        weight: 1
+      - path: T33_size_03_a/bj6_040
+        weight: 1
+      - path: T33_size_03_a/bj6_041
+        weight: 1
+      - path: T33_size_03_a/bj6_042
+        weight: 1
+      - path: T33_size_03_a/Plane129
+        weight: 1
+      - path: T33_size_03_a/Plane130
+        weight: 1
+      - path: T33_size_03_a/Plane131
+        weight: 1
+      - path: T33_size_03_a/Plane132
+        weight: 1
+      - path: T33_size_03_a/Plane133
+        weight: 1
+      - path: T33_size_03_a/Plane135
+        weight: 1
+      - path: T33_size_03_a/Plane136
+        weight: 1
+      - path: T33_size_03_a/Shape007
+        weight: 1
+      - path: T33_size_03_a/Text025
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

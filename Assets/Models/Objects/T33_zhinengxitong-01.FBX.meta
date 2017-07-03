@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: dc3e49db30f24414fbee717bf21f228e
+timeCreated: 1477732188
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 01_zhinengxitong
+    100002: Dummy_T33_waifanghu_02
+    100004: T33_waifanghu_32
+    100006: //RootNode
+    100008: zhineng_00
+    100010: zhineng_01
+    100012: zhineng_02
+    100014: zhineng_03
+    100016: zhineng_04
+    100018: zhineng_05
+    100020: zhineng_06
+    100022: zhineng_07
+    400000: 01_zhinengxitong
+    400002: Dummy_T33_waifanghu_02
+    400004: T33_waifanghu_32
+    400006: //RootNode
+    400008: zhineng_00
+    400010: zhineng_01
+    400012: zhineng_02
+    400014: zhineng_03
+    400016: zhineng_04
+    400018: zhineng_05
+    400020: zhineng_06
+    400022: zhineng_07
+    2300000: T33_waifanghu_32
+    2300002: zhineng_00
+    2300004: zhineng_01
+    2300006: zhineng_02
+    2300008: zhineng_03
+    2300010: zhineng_04
+    2300012: zhineng_05
+    2300014: zhineng_06
+    2300016: zhineng_07
+    3300000: T33_waifanghu_32
+    3300002: zhineng_00
+    3300004: zhineng_01
+    3300006: zhineng_02
+    3300008: zhineng_03
+    3300010: zhineng_04
+    3300012: zhineng_05
+    3300014: zhineng_06
+    3300016: zhineng_07
+    4300000: zhineng_00
+    4300002: zhineng_01
+    4300004: zhineng_02
+    4300006: zhineng_03
+    4300008: zhineng_04
+    4300010: zhineng_05
+    4300012: zhineng_06
+    4300014: zhineng_07
+    4300016: T33_waifanghu_32
+    7400000: Uns_AnimOpen
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimOpen
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 01_zhinengxitong
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_00
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_01
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_02
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_03
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_04
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_05
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_06
+        weight: 1
+      - path: 01_zhinengxitong/Dummy_T33_waifanghu_02/zhineng_07
+        weight: 1
+      - path: 01_zhinengxitong/T33_waifanghu_32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

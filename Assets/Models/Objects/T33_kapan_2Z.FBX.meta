@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: a63c628933909a845b2fa26847edd219
+timeCreated: 1477728348
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: T33_kapan_biaopei_8czk_066
+    100004: T33_kapan_biaopei_8czk_17
+    100006: T33_kapan_biaopei_8czk_19
+    100008: T33_kapan_biaopei_8czk_22
+    100010: T33_kapan_biaopei_8czk_25
+    100012: T33_kapan_biaopei_8czk_63
+    100014: T33_kapan_biaopei_8czk_65
+    100016: T33_kapan_biaopei_8czk_66
+    100018: T33_kapan_biaopei_8czk_67
+    100020: T33_kapan_biaopei_8czk_76
+    100022: T33_kapan_biaopei_8czk_78
+    400000: //RootNode
+    400002: T33_kapan_biaopei_8czk_066
+    400004: T33_kapan_biaopei_8czk_17
+    400006: T33_kapan_biaopei_8czk_19
+    400008: T33_kapan_biaopei_8czk_22
+    400010: T33_kapan_biaopei_8czk_25
+    400012: T33_kapan_biaopei_8czk_63
+    400014: T33_kapan_biaopei_8czk_65
+    400016: T33_kapan_biaopei_8czk_66
+    400018: T33_kapan_biaopei_8czk_67
+    400020: T33_kapan_biaopei_8czk_76
+    400022: T33_kapan_biaopei_8czk_78
+    2300000: T33_kapan_biaopei_8czk_066
+    2300002: T33_kapan_biaopei_8czk_17
+    2300004: T33_kapan_biaopei_8czk_19
+    2300006: T33_kapan_biaopei_8czk_22
+    2300008: T33_kapan_biaopei_8czk_25
+    2300010: T33_kapan_biaopei_8czk_63
+    2300012: T33_kapan_biaopei_8czk_65
+    2300014: T33_kapan_biaopei_8czk_66
+    2300016: T33_kapan_biaopei_8czk_67
+    2300018: T33_kapan_biaopei_8czk_76
+    2300020: T33_kapan_biaopei_8czk_78
+    3300000: T33_kapan_biaopei_8czk_066
+    3300002: T33_kapan_biaopei_8czk_17
+    3300004: T33_kapan_biaopei_8czk_19
+    3300006: T33_kapan_biaopei_8czk_22
+    3300008: T33_kapan_biaopei_8czk_25
+    3300010: T33_kapan_biaopei_8czk_63
+    3300012: T33_kapan_biaopei_8czk_65
+    3300014: T33_kapan_biaopei_8czk_66
+    3300016: T33_kapan_biaopei_8czk_67
+    3300018: T33_kapan_biaopei_8czk_76
+    3300020: T33_kapan_biaopei_8czk_78
+    4300000: T33_kapan_biaopei_8czk_66
+    4300002: T33_kapan_biaopei_8czk_65
+    4300004: T33_kapan_biaopei_8czk_63
+    4300006: T33_kapan_biaopei_8czk_78
+    4300008: T33_kapan_biaopei_8czk_76
+    4300010: T33_kapan_biaopei_8czk_22
+    4300012: T33_kapan_biaopei_8czk_25
+    4300014: T33_kapan_biaopei_8czk_19
+    4300016: T33_kapan_biaopei_8czk_67
+    4300018: T33_kapan_biaopei_8czk_17
+    4300020: T33_kapan_biaopei_8czk_066
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

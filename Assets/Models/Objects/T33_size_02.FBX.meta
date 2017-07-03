@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: 564c9d1f70f80df4b95f1f89bc20a5ba
+timeCreated: 1477817600
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy
+    100002: NGon021
+    100004: NGon022
+    100006: NGon023
+    100008: NGon024
+    100010: NGon025
+    100012: NGon026
+    100014: NGon027
+    100016: NGon028
+    100018: Plane116
+    100020: Plane117
+    100022: Plane118
+    100024: Plane119
+    100026: Plane120
+    100028: Plane121
+    100030: Plane122
+    100032: Plane123
+    100034: Plane124
+    100036: Plane125
+    100038: Plane126
+    100040: Plane127
+    100042: Plane128
+    100044: //RootNode
+    100046: T33_size_02_a
+    100048: Text020
+    100050: y1_151
+    100052: y1_152
+    100054: y1_153
+    100056: y1_154
+    100058: y1_155
+    100060: y1_156
+    100062: y1_157
+    100064: y1_158
+    100066: y1_159
+    100068: y1_160
+    100070: y1_161
+    100072: y1_162
+    100074: y1_163
+    100076: y1_164
+    100078: y1_165
+    100080: y1_166
+    100082: y1_167
+    100084: y1_168
+    100086: y1_169
+    100088: y1_170
+    100090: y1_171
+    100092: y1_172
+    100094: y1_173
+    100096: y1_174
+    100098: y1_175
+    100100: y1_176
+    100102: y1_177
+    100104: y1_178
+    100106: y1_179
+    100108: y1_180
+    100110: y1_181
+    100112: y1_182
+    100114: y1_183
+    100116: y1_184
+    100118: y1_185
+    100120: y1_186
+    100122: y1_187
+    100124: y1_188
+    100126: y1_189
+    100128: y1_190
+    100130: y1_191
+    100132: y1_192
+    100134: y1_193
+    100136: y1_194
+    100138: y1_195
+    100140: y1_196
+    100142: y1_197
+    100144: y1_198
+    100146: y1_199
+    100148: y1_200
+    100150: y1_201
+    100152: y1_202
+    100154: y1_203
+    100156: y1_204
+    100158: y1_205
+    100160: y1_206
+    100162: y1_207
+    100164: y1_208
+    100166: y1_209
+    100168: y1_210
+    100170: y1_211
+    100172: y1_212
+    100174: y1_213
+    100176: y1_214
+    100178: y1_215
+    100180: y1_216
+    100182: y1_217
+    100184: y1_218
+    100186: y1_219
+    100188: y1_220
+    100190: y1_221
+    100192: y1_222
+    100194: y1_223
+    100196: y1_224
+    100198: y1_225
+    100200: y1_226
+    100202: y1_227
+    100204: y1_228
+    100206: y1_229
+    100208: y1_230
+    100210: y1_231
+    100212: y1_232
+    100214: y1_233
+    100216: y1_234
+    100218: y1_235
+    100220: y1_236
+    100222: y1_237
+    100224: y1_238
+    100226: y1_239
+    100228: y1_240
+    100230: y1_241
+    100232: y1_242
+    100234: y1_243
+    100236: y1_244
+    100238: y1_245
+    100240: y1_246
+    100242: y1_247
+    100244: y1_248
+    100246: y1_249
+    100248: y1_250
+    100250: yy1_076
+    100252: yy1_077
+    100254: yy1_078
+    100256: yy1_079
+    100258: yy1_080
+    100260: yy1_081
+    100262: yy1_082
+    100264: yy1_083
+    100266: yy1_084
+    100268: yy1_085
+    100270: yy1_086
+    100272: yy1_087
+    100274: yy1_088
+    100276: yy1_089
+    100278: yy1_090
+    100280: yy1_091
+    100282: yy1_092
+    100284: yy1_093
+    100286: yy1_094
+    100288: yy1_095
+    100290: yy1_096
+    100292: yy1_097
+    100294: yy1_098
+    100296: yy1_099
+    100298: yy1_100
+    100300: yy1_101
+    100302: yy1_102
+    100304: yy1_103
+    100306: yy1_104
+    100308: yy1_105
+    100310: yy1_106
+    100312: yy1_107
+    100314: yy1_108
+    100316: yy1_109
+    100318: yy1_110
+    100320: yy1_111
+    100322: yy1_112
+    100324: yy1_113
+    100326: yy1_114
+    100328: yy1_115
+    100330: yy1_116
+    100332: yy1_117
+    100334: yy1_118
+    100336: yy1_119
+    100338: yy1_120
+    100340: yy1_121
+    100342: yy1_122
+    100344: yy1_123
+    100346: yy1_124
+    100348: yy1_125
+    400000: Dummy
+    400002: NGon021
+    400004: NGon022
+    400006: NGon023
+    400008: NGon024
+    400010: NGon025
+    400012: NGon026
+    400014: NGon027
+    400016: NGon028
+    400018: Plane116
+    400020: Plane117
+    400022: Plane118
+    400024: Plane119
+    400026: Plane120
+    400028: Plane121
+    400030: Plane122
+    400032: Plane123
+    400034: Plane124
+    400036: Plane125
+    400038: Plane126
+    400040: Plane127
+    400042: Plane128
+    400044: //RootNode
+    400046: T33_size_02_a
+    400048: Text020
+    400050: y1_151
+    400052: y1_152
+    400054: y1_153
+    400056: y1_154
+    400058: y1_155
+    400060: y1_156
+    400062: y1_157
+    400064: y1_158
+    400066: y1_159
+    400068: y1_160
+    400070: y1_161
+    400072: y1_162
+    400074: y1_163
+    400076: y1_164
+    400078: y1_165
+    400080: y1_166
+    400082: y1_167
+    400084: y1_168
+    400086: y1_169
+    400088: y1_170
+    400090: y1_171
+    400092: y1_172
+    400094: y1_173
+    400096: y1_174
+    400098: y1_175
+    400100: y1_176
+    400102: y1_177
+    400104: y1_178
+    400106: y1_179
+    400108: y1_180
+    400110: y1_181
+    400112: y1_182
+    400114: y1_183
+    400116: y1_184
+    400118: y1_185
+    400120: y1_186
+    400122: y1_187
+    400124: y1_188
+    400126: y1_189
+    400128: y1_190
+    400130: y1_191
+    400132: y1_192
+    400134: y1_193
+    400136: y1_194
+    400138: y1_195
+    400140: y1_196
+    400142: y1_197
+    400144: y1_198
+    400146: y1_199
+    400148: y1_200
+    400150: y1_201
+    400152: y1_202
+    400154: y1_203
+    400156: y1_204
+    400158: y1_205
+    400160: y1_206
+    400162: y1_207
+    400164: y1_208
+    400166: y1_209
+    400168: y1_210
+    400170: y1_211
+    400172: y1_212
+    400174: y1_213
+    400176: y1_214
+    400178: y1_215
+    400180: y1_216
+    400182: y1_217
+    400184: y1_218
+    400186: y1_219
+    400188: y1_220
+    400190: y1_221
+    400192: y1_222
+    400194: y1_223
+    400196: y1_224
+    400198: y1_225
+    400200: y1_226
+    400202: y1_227
+    400204: y1_228
+    400206: y1_229
+    400208: y1_230
+    400210: y1_231
+    400212: y1_232
+    400214: y1_233
+    400216: y1_234
+    400218: y1_235
+    400220: y1_236
+    400222: y1_237
+    400224: y1_238
+    400226: y1_239
+    400228: y1_240
+    400230: y1_241
+    400232: y1_242
+    400234: y1_243
+    400236: y1_244
+    400238: y1_245
+    400240: y1_246
+    400242: y1_247
+    400244: y1_248
+    400246: y1_249
+    400248: y1_250
+    400250: yy1_076
+    400252: yy1_077
+    400254: yy1_078
+    400256: yy1_079
+    400258: yy1_080
+    400260: yy1_081
+    400262: yy1_082
+    400264: yy1_083
+    400266: yy1_084
+    400268: yy1_085
+    400270: yy1_086
+    400272: yy1_087
+    400274: yy1_088
+    400276: yy1_089
+    400278: yy1_090
+    400280: yy1_091
+    400282: yy1_092
+    400284: yy1_093
+    400286: yy1_094
+    400288: yy1_095
+    400290: yy1_096
+    400292: yy1_097
+    400294: yy1_098
+    400296: yy1_099
+    400298: yy1_100
+    400300: yy1_101
+    400302: yy1_102
+    400304: yy1_103
+    400306: yy1_104
+    400308: yy1_105
+    400310: yy1_106
+    400312: yy1_107
+    400314: yy1_108
+    400316: yy1_109
+    400318: yy1_110
+    400320: yy1_111
+    400322: yy1_112
+    400324: yy1_113
+    400326: yy1_114
+    400328: yy1_115
+    400330: yy1_116
+    400332: yy1_117
+    400334: yy1_118
+    400336: yy1_119
+    400338: yy1_120
+    400340: yy1_121
+    400342: yy1_122
+    400344: yy1_123
+    400346: yy1_124
+    400348: yy1_125
+    2300000: Plane122
+    2300002: Plane123
+    2300004: Plane124
+    2300006: Plane125
+    2300008: Plane126
+    2300010: Plane127
+    2300012: Plane128
+    2300014: Text020
+    3300000: Plane122
+    3300002: Plane123
+    3300004: Plane124
+    3300006: Plane125
+    3300008: Plane126
+    3300010: Plane127
+    3300012: Plane128
+    3300014: Text020
+    4300000: Plane122
+    4300002: Plane123
+    4300004: Plane124
+    4300006: Plane125
+    4300008: Plane126
+    4300010: Plane127
+    4300012: Plane128
+    4300014: Text020
+    4300016: Plane116
+    4300018: Plane117
+    4300020: Plane118
+    4300022: Plane119
+    4300024: Plane120
+    4300026: Plane121
+    7400000: Uns_AnimSize
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane116
+    13700002: Plane117
+    13700004: Plane118
+    13700006: Plane119
+    13700008: Plane120
+    13700010: Plane121
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Uns_AnimSize
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy
+        weight: 1
+      - path: T33_size_02_a
+        weight: 1
+      - path: T33_size_02_a/NGon021
+        weight: 1
+      - path: T33_size_02_a/NGon022
+        weight: 1
+      - path: T33_size_02_a/NGon023
+        weight: 1
+      - path: T33_size_02_a/NGon024
+        weight: 1
+      - path: T33_size_02_a/NGon025
+        weight: 1
+      - path: T33_size_02_a/NGon026
+        weight: 1
+      - path: T33_size_02_a/NGon027
+        weight: 1
+      - path: T33_size_02_a/NGon028
+        weight: 1
+      - path: T33_size_02_a/Plane116
+        weight: 1
+      - path: T33_size_02_a/Plane117
+        weight: 1
+      - path: T33_size_02_a/Plane118
+        weight: 1
+      - path: T33_size_02_a/Plane119
+        weight: 1
+      - path: T33_size_02_a/Plane120
+        weight: 1
+      - path: T33_size_02_a/Plane121
+        weight: 1
+      - path: T33_size_02_a/Plane122
+        weight: 1
+      - path: T33_size_02_a/Plane123
+        weight: 1
+      - path: T33_size_02_a/Plane124
+        weight: 1
+      - path: T33_size_02_a/Plane125
+        weight: 1
+      - path: T33_size_02_a/Plane126
+        weight: 1
+      - path: T33_size_02_a/Plane127
+        weight: 1
+      - path: T33_size_02_a/Plane128
+        weight: 1
+      - path: T33_size_02_a/Text020
+        weight: 1
+      - path: T33_size_02_a/y1_151
+        weight: 1
+      - path: T33_size_02_a/y1_152
+        weight: 1
+      - path: T33_size_02_a/y1_153
+        weight: 1
+      - path: T33_size_02_a/y1_154
+        weight: 1
+      - path: T33_size_02_a/y1_155
+        weight: 1
+      - path: T33_size_02_a/y1_156
+        weight: 1
+      - path: T33_size_02_a/y1_157
+        weight: 1
+      - path: T33_size_02_a/y1_158
+        weight: 1
+      - path: T33_size_02_a/y1_159
+        weight: 1
+      - path: T33_size_02_a/y1_160
+        weight: 1
+      - path: T33_size_02_a/y1_161
+        weight: 1
+      - path: T33_size_02_a/y1_162
+        weight: 1
+      - path: T33_size_02_a/y1_163
+        weight: 1
+      - path: T33_size_02_a/y1_164
+        weight: 1
+      - path: T33_size_02_a/y1_165
+        weight: 1
+      - path: T33_size_02_a/y1_166
+        weight: 1
+      - path: T33_size_02_a/y1_167
+        weight: 1
+      - path: T33_size_02_a/y1_168
+        weight: 1
+      - path: T33_size_02_a/y1_169
+        weight: 1
+      - path: T33_size_02_a/y1_170
+        weight: 1
+      - path: T33_size_02_a/y1_171
+        weight: 1
+      - path: T33_size_02_a/y1_172
+        weight: 1
+      - path: T33_size_02_a/y1_173
+        weight: 1
+      - path: T33_size_02_a/y1_174
+        weight: 1
+      - path: T33_size_02_a/y1_175
+        weight: 1
+      - path: T33_size_02_a/y1_176
+        weight: 1
+      - path: T33_size_02_a/y1_177
+        weight: 1
+      - path: T33_size_02_a/y1_178
+        weight: 1
+      - path: T33_size_02_a/y1_179
+        weight: 1
+      - path: T33_size_02_a/y1_180
+        weight: 1
+      - path: T33_size_02_a/y1_181
+        weight: 1
+      - path: T33_size_02_a/y1_182
+        weight: 1
+      - path: T33_size_02_a/y1_183
+        weight: 1
+      - path: T33_size_02_a/y1_184
+        weight: 1
+      - path: T33_size_02_a/y1_185
+        weight: 1
+      - path: T33_size_02_a/y1_186
+        weight: 1
+      - path: T33_size_02_a/y1_187
+        weight: 1
+      - path: T33_size_02_a/y1_188
+        weight: 1
+      - path: T33_size_02_a/y1_189
+        weight: 1
+      - path: T33_size_02_a/y1_190
+        weight: 1
+      - path: T33_size_02_a/y1_191
+        weight: 1
+      - path: T33_size_02_a/y1_192
+        weight: 1
+      - path: T33_size_02_a/y1_193
+        weight: 1
+      - path: T33_size_02_a/y1_194
+        weight: 1
+      - path: T33_size_02_a/y1_195
+        weight: 1
+      - path: T33_size_02_a/y1_196
+        weight: 1
+      - path: T33_size_02_a/y1_197
+        weight: 1
+      - path: T33_size_02_a/y1_198
+        weight: 1
+      - path: T33_size_02_a/y1_199
+        weight: 1
+      - path: T33_size_02_a/y1_200
+        weight: 1
+      - path: T33_size_02_a/y1_201
+        weight: 1
+      - path: T33_size_02_a/y1_202
+        weight: 1
+      - path: T33_size_02_a/y1_203
+        weight: 1
+      - path: T33_size_02_a/y1_204
+        weight: 1
+      - path: T33_size_02_a/y1_205
+        weight: 1
+      - path: T33_size_02_a/y1_206
+        weight: 1
+      - path: T33_size_02_a/y1_207
+        weight: 1
+      - path: T33_size_02_a/y1_208
+        weight: 1
+      - path: T33_size_02_a/y1_209
+        weight: 1
+      - path: T33_size_02_a/y1_210
+        weight: 1
+      - path: T33_size_02_a/y1_211
+        weight: 1
+      - path: T33_size_02_a/y1_212
+        weight: 1
+      - path: T33_size_02_a/y1_213
+        weight: 1
+      - path: T33_size_02_a/y1_214
+        weight: 1
+      - path: T33_size_02_a/y1_215
+        weight: 1
+      - path: T33_size_02_a/y1_216
+        weight: 1
+      - path: T33_size_02_a/y1_217
+        weight: 1
+      - path: T33_size_02_a/y1_218
+        weight: 1
+      - path: T33_size_02_a/y1_219
+        weight: 1
+      - path: T33_size_02_a/y1_220
+        weight: 1
+      - path: T33_size_02_a/y1_221
+        weight: 1
+      - path: T33_size_02_a/y1_222
+        weight: 1
+      - path: T33_size_02_a/y1_223
+        weight: 1
+      - path: T33_size_02_a/y1_224
+        weight: 1
+      - path: T33_size_02_a/y1_225
+        weight: 1
+      - path: T33_size_02_a/y1_226
+        weight: 1
+      - path: T33_size_02_a/y1_227
+        weight: 1
+      - path: T33_size_02_a/y1_228
+        weight: 1
+      - path: T33_size_02_a/y1_229
+        weight: 1
+      - path: T33_size_02_a/y1_230
+        weight: 1
+      - path: T33_size_02_a/y1_231
+        weight: 1
+      - path: T33_size_02_a/y1_232
+        weight: 1
+      - path: T33_size_02_a/y1_233
+        weight: 1
+      - path: T33_size_02_a/y1_234
+        weight: 1
+      - path: T33_size_02_a/y1_235
+        weight: 1
+      - path: T33_size_02_a/y1_236
+        weight: 1
+      - path: T33_size_02_a/y1_237
+        weight: 1
+      - path: T33_size_02_a/y1_238
+        weight: 1
+      - path: T33_size_02_a/y1_239
+        weight: 1
+      - path: T33_size_02_a/y1_240
+        weight: 1
+      - path: T33_size_02_a/y1_241
+        weight: 1
+      - path: T33_size_02_a/y1_242
+        weight: 1
+      - path: T33_size_02_a/y1_243
+        weight: 1
+      - path: T33_size_02_a/y1_244
+        weight: 1
+      - path: T33_size_02_a/y1_245
+        weight: 1
+      - path: T33_size_02_a/y1_246
+        weight: 1
+      - path: T33_size_02_a/y1_247
+        weight: 1
+      - path: T33_size_02_a/y1_248
+        weight: 1
+      - path: T33_size_02_a/y1_249
+        weight: 1
+      - path: T33_size_02_a/y1_250
+        weight: 1
+      - path: T33_size_02_a/yy1_076
+        weight: 1
+      - path: T33_size_02_a/yy1_077
+        weight: 1
+      - path: T33_size_02_a/yy1_078
+        weight: 1
+      - path: T33_size_02_a/yy1_079
+        weight: 1
+      - path: T33_size_02_a/yy1_080
+        weight: 1
+      - path: T33_size_02_a/yy1_081
+        weight: 1
+      - path: T33_size_02_a/yy1_082
+        weight: 1
+      - path: T33_size_02_a/yy1_083
+        weight: 1
+      - path: T33_size_02_a/yy1_084
+        weight: 1
+      - path: T33_size_02_a/yy1_085
+        weight: 1
+      - path: T33_size_02_a/yy1_086
+        weight: 1
+      - path: T33_size_02_a/yy1_087
+        weight: 1
+      - path: T33_size_02_a/yy1_088
+        weight: 1
+      - path: T33_size_02_a/yy1_089
+        weight: 1
+      - path: T33_size_02_a/yy1_090
+        weight: 1
+      - path: T33_size_02_a/yy1_091
+        weight: 1
+      - path: T33_size_02_a/yy1_092
+        weight: 1
+      - path: T33_size_02_a/yy1_093
+        weight: 1
+      - path: T33_size_02_a/yy1_094
+        weight: 1
+      - path: T33_size_02_a/yy1_095
+        weight: 1
+      - path: T33_size_02_a/yy1_096
+        weight: 1
+      - path: T33_size_02_a/yy1_097
+        weight: 1
+      - path: T33_size_02_a/yy1_098
+        weight: 1
+      - path: T33_size_02_a/yy1_099
+        weight: 1
+      - path: T33_size_02_a/yy1_100
+        weight: 1
+      - path: T33_size_02_a/yy1_101
+        weight: 1
+      - path: T33_size_02_a/yy1_102
+        weight: 1
+      - path: T33_size_02_a/yy1_103
+        weight: 1
+      - path: T33_size_02_a/yy1_104
+        weight: 1
+      - path: T33_size_02_a/yy1_105
+        weight: 1
+      - path: T33_size_02_a/yy1_106
+        weight: 1
+      - path: T33_size_02_a/yy1_107
+        weight: 1
+      - path: T33_size_02_a/yy1_108
+        weight: 1
+      - path: T33_size_02_a/yy1_109
+        weight: 1
+      - path: T33_size_02_a/yy1_110
+        weight: 1
+      - path: T33_size_02_a/yy1_111
+        weight: 1
+      - path: T33_size_02_a/yy1_112
+        weight: 1
+      - path: T33_size_02_a/yy1_113
+        weight: 1
+      - path: T33_size_02_a/yy1_114
+        weight: 1
+      - path: T33_size_02_a/yy1_115
+        weight: 1
+      - path: T33_size_02_a/yy1_116
+        weight: 1
+      - path: T33_size_02_a/yy1_117
+        weight: 1
+      - path: T33_size_02_a/yy1_118
+        weight: 1
+      - path: T33_size_02_a/yy1_119
+        weight: 1
+      - path: T33_size_02_a/yy1_120
+        weight: 1
+      - path: T33_size_02_a/yy1_121
+        weight: 1
+      - path: T33_size_02_a/yy1_122
+        weight: 1
+      - path: T33_size_02_a/yy1_123
+        weight: 1
+      - path: T33_size_02_a/yy1_124
+        weight: 1
+      - path: T33_size_02_a/yy1_125
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

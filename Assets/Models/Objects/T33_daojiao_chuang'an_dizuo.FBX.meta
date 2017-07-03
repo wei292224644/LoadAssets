@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 32e594c05d38c7a4aa80e9f778918d80
+timeCreated: 1477728337
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: daojiafeng_01
+    100002: Dummy_T33_zhoucheng_03
+    100004: help_chuangan01
+    100006: T33_biaopei_daojia_104
+    100008: T33_biaopei_daojia_107
+    100010: T33_biaopei_daojia_109
+    100012: T33_biaopei_daojia_57
+    100014: T33_biaopei_daojia_59
+    100016: T33_biaopei_daojia_60
+    100018: T33_biaopei_daojia_61
+    100020: T33_biaopei_daojia_62
+    100022: T33_biaopei_daojia_66
+    100024: T33_biaopei_daojia_67
+    100026: T33_biaopei_daojia_68
+    100028: T33_biaopei_daojia_69
+    100030: T33_biaopei_daojia_706
+    100032: T33_biaopei_daojia_708
+    100034: T33_biaopei_daojia_71
+    100036: T33_biaopei_daojia_74
+    100038: T33_biaopei_daojia_75
+    100040: T33_biaopei_daojia_76
+    100042: T33_biaopei_daojia_99
+    100044: T33_chuangan_a_00
+    100046: T33_chuangan_a_01
+    100048: T33_daojia_biaopei_80zxg8gw_00
+    100050: //RootNode
+    400000: daojiafeng_01
+    400002: Dummy_T33_zhoucheng_03
+    400004: help_chuangan01
+    400006: T33_biaopei_daojia_104
+    400008: T33_biaopei_daojia_107
+    400010: T33_biaopei_daojia_109
+    400012: T33_biaopei_daojia_57
+    400014: T33_biaopei_daojia_59
+    400016: T33_biaopei_daojia_60
+    400018: T33_biaopei_daojia_61
+    400020: T33_biaopei_daojia_62
+    400022: T33_biaopei_daojia_66
+    400024: T33_biaopei_daojia_67
+    400026: T33_biaopei_daojia_68
+    400028: T33_biaopei_daojia_69
+    400030: T33_biaopei_daojia_706
+    400032: T33_biaopei_daojia_708
+    400034: T33_biaopei_daojia_71
+    400036: T33_biaopei_daojia_74
+    400038: T33_biaopei_daojia_75
+    400040: T33_biaopei_daojia_76
+    400042: T33_biaopei_daojia_99
+    400044: T33_chuangan_a_00
+    400046: T33_chuangan_a_01
+    400048: T33_daojia_biaopei_80zxg8gw_00
+    400050: //RootNode
+    2300000: daojiafeng_01
+    2300002: T33_biaopei_daojia_104
+    2300004: T33_biaopei_daojia_107
+    2300006: T33_biaopei_daojia_109
+    2300008: T33_biaopei_daojia_57
+    2300010: T33_biaopei_daojia_59
+    2300012: T33_biaopei_daojia_60
+    2300014: T33_biaopei_daojia_61
+    2300016: T33_biaopei_daojia_62
+    2300018: T33_biaopei_daojia_66
+    2300020: T33_biaopei_daojia_67
+    2300022: T33_biaopei_daojia_68
+    2300024: T33_biaopei_daojia_69
+    2300026: T33_biaopei_daojia_706
+    2300028: T33_biaopei_daojia_708
+    2300030: T33_biaopei_daojia_71
+    2300032: T33_biaopei_daojia_74
+    2300034: T33_biaopei_daojia_75
+    2300036: T33_biaopei_daojia_76
+    2300038: T33_biaopei_daojia_99
+    2300040: T33_chuangan_a_00
+    2300042: T33_chuangan_a_01
+    3300000: daojiafeng_01
+    3300002: T33_biaopei_daojia_104
+    3300004: T33_biaopei_daojia_107
+    3300006: T33_biaopei_daojia_109
+    3300008: T33_biaopei_daojia_57
+    3300010: T33_biaopei_daojia_59
+    3300012: T33_biaopei_daojia_60
+    3300014: T33_biaopei_daojia_61
+    3300016: T33_biaopei_daojia_62
+    3300018: T33_biaopei_daojia_66
+    3300020: T33_biaopei_daojia_67
+    3300022: T33_biaopei_daojia_68
+    3300024: T33_biaopei_daojia_69
+    3300026: T33_biaopei_daojia_706
+    3300028: T33_biaopei_daojia_708
+    3300030: T33_biaopei_daojia_71
+    3300032: T33_biaopei_daojia_74
+    3300034: T33_biaopei_daojia_75
+    3300036: T33_biaopei_daojia_76
+    3300038: T33_biaopei_daojia_99
+    3300040: T33_chuangan_a_00
+    3300042: T33_chuangan_a_01
+    4300000: T33_biaopei_daojia_57
+    4300002: T33_biaopei_daojia_59
+    4300004: T33_biaopei_daojia_60
+    4300006: T33_biaopei_daojia_61
+    4300008: T33_biaopei_daojia_62
+    4300010: T33_biaopei_daojia_66
+    4300012: T33_biaopei_daojia_67
+    4300014: T33_biaopei_daojia_68
+    4300016: T33_biaopei_daojia_69
+    4300018: T33_biaopei_daojia_71
+    4300020: T33_biaopei_daojia_74
+    4300022: T33_biaopei_daojia_75
+    4300024: T33_biaopei_daojia_76
+    4300026: T33_biaopei_daojia_706
+    4300028: T33_biaopei_daojia_708
+    4300030: T33_biaopei_daojia_99
+    4300032: T33_biaopei_daojia_104
+    4300034: T33_biaopei_daojia_107
+    4300036: T33_biaopei_daojia_109
+    4300038: T33_chuangan_a_00
+    4300040: T33_chuangan_a_01
+    4300042: daojiafeng_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
